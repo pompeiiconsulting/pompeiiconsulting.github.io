@@ -11,8 +11,12 @@
 
     <link rel="shortcut icon" href="favicon.ico">
 
-    <link rel="stylesheet" type="text/css" href="assets/css/screen.css?v=2117262d81">
-    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic%7COpen+Sans:700,400">
+    <link rel="stylesheet" href="https://npmcdn.com/tachyons@4.0.0-beta.31/css/tachyons.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/reset.css?v=b35be0cfa0">
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Lato:300,700,700italic,300italic">
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.4.0/styles/grayscale.min.css">
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.4.0/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
 
     <link rel="canonical" href="index.html">
     <meta name="referrer" content="origin">
@@ -40,94 +44,54 @@
     <meta name="generator" content="Ghost 0.8">
     <link rel="alternate" type="application/rss+xml" title="Pompeii Consulting" href="rss/index.html">
 </head>
-<body class="home-template nav-closed">
-
-    <div class="nav">
-    <h3 class="nav-title">Menu</h3>
-    <a href="index.html#" class="nav-close">
-        <span class="hidden">Close</span>
-    </a>
-    <ul>
-            <li class="nav-home nav-current" role="presentation"><a href="index.html">Home</a></li>
-    </ul>
-        <a class="subscribe-button icon-feed" href="rss/index.rss">Subscribe</a>
-</div>
-<span class="nav-cover"></span>
+<body class="home-template relative pb6 mt5" style="min-height:100vh;">
 
 
-    <div class="site-wrapper">
+    <div class="w-60-l w-90 ph3 ph0-l ph3-m center">
 
         
-<header class="main-header no-cover">
-    <nav class="main-nav overlay clearfix">
+<header class="no-cover">
+    <nav class="">
         
-            <a class="menu-button icon-menu" href="index.html#"><span class="word">Menu</span></a>
     </nav>
-    <div class="vertical">
-        <div class="main-header-content inner">
-            <h1 class="page-title">Pompeii Consulting</h1>
-            <h2 class="page-description">Thoughts, stories and ideas.</h2>
-        </div>
+    <div class="tc">
+        <h1 class="fw3 f-headline-ns f1 f1-m ttu tracked mb0-l"><a class="no-underline dark-gray link dim" href="index.html">Pompeii Consulting</a></h1>
+        <h2 class="fw3 f4-ns f5 ttu tracked gray tc">Thoughts, stories and ideas.</h2>
     </div>
-    <a class="scroll-down icon-arrow-left" href="index.html#content" data-offset="-45"><span class="hidden">Scroll Down</span></a>
 </header>
 
-<main id="content" class="content" role="main">
+<main id="content" class="" role="main">
 
-    <div class="extra-pagination inner">
-    <nav class="pagination" role="navigation">
-    <span class="page-number">Page 1 of 1</span>
-</nav>
-
-</div>
-
-<article class="post">
-    <header class="post-header">
-        <h2 class="post-title"><a href="welcome-to-my-blog/">Welcome to My Blog</a></h2>
+    <article class="pt5 lh-copy mw8 center tc post">
+    <header class="mb3">
+        <h2 class="ttu fw7 f3 lh-title tracked link dim pv1 mv1 mb0 bb b--light-gray"><a class="no-underline" href="welcome-to-my-blog/">Welcome to My Blog</a></h2>
+        <time class="f6 i ttu tracked gray" datetime="2016-07-11">11 July 2016</time>
     </header>
-    <section class="post-excerpt">
-        <p>This is Pompeii Consulting. On Git xkycd1123 <a class="read-more" href="welcome-to-my-blog/">»</a></p>
-    </section>
-    <footer class="post-meta">
-        
-        <a href="author/pompeii/">Pompeii Consulting</a>
-        
-        <time class="post-date" datetime="2016-07-11">11 July 2016</time>
-    </footer>
 </article>
-<article class="post tag-getting-started">
-    <header class="post-header">
-        <h2 class="post-title"><a href="welcome-to-ghost/">Welcome to Ghost</a></h2>
+<article class="pt5 lh-copy mw8 center tc post tag-getting-started">
+    <header class="mb3">
+        <h2 class="ttu fw7 f3 lh-title tracked link dim pv1 mv1 mb0 bb b--light-gray"><a class="no-underline" href="welcome-to-ghost/">Welcome to Ghost</a></h2>
+        <time class="f6 i ttu tracked gray" datetime="2016-07-11">11 July 2016</time>
     </header>
-    <section class="post-excerpt">
-        <p>You're live! Nice. We've put together a little post to introduce you to the Ghost editor and get you started. You can manage your content by <a class="read-more" href="welcome-to-ghost/">»</a></p>
-    </section>
-    <footer class="post-meta">
-        
-        <a href="author/pompeii/">Pompeii Consulting</a>
-         on <a href="tag/getting-started/">Getting Started</a>
-        <time class="post-date" datetime="2016-07-11">11 July 2016</time>
-    </footer>
 </article>
 
-<nav class="pagination" role="navigation">
-    <span class="page-number">Page 1 of 1</span>
+<nav class="relative w-80-ns mw6 mt6 center tc" role="navigation">
+    <a class="fl dib ph3 pv1 no-underline dim link ba br2 ttu f6 disabled" href="index.html">Future</a>
+    <span class="ttu gray tracked f6 f5-ns">Page 1 of 1</span>
+    <a class="fr dib ph3 pv1 no-underline dim link ba br2 ttu f6 disabled" href="index.html">Past</a>
 </nav>
 
 
 </main>
 
 
-        <footer class="site-footer clearfix">
-            <section class="copyright"><a href="index.html">Pompeii Consulting</a> © 2016</section>
-            <section class="poweredby">Proudly published with <a href="https://ghost.org">Ghost</a></section>
-        </footer>
-
     </div>
+    <footer class="absolute w-100 left-0 bottom-0">
+        <section class="f6 tc pa3 ttu">Published with <a class="link dim" href="https://ghost.org">Ghost</a> using <a class="link dim" href="https://github.com/velveteer/inextinguishable">Inextinguishable</a></section>
+    </footer>
 
     <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+    <script type="text/javascript" src="assets/js/scripts.js?v=b35be0cfa0"></script>
     
-    <script type="text/javascript" src="assets/js/jquery.fitvids.js?v=2117262d81"></script>
-    <script type="text/javascript" src="assets/js/index.js?v=2117262d81"></script>
 
 </body>

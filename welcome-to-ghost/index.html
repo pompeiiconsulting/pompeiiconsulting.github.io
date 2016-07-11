@@ -11,8 +11,12 @@
 
     <link rel="shortcut icon" href="../favicon.ico">
 
-    <link rel="stylesheet" type="text/css" href="../assets/css/screen.css?v=2117262d81">
-    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic%7COpen+Sans:700,400">
+    <link rel="stylesheet" href="https://npmcdn.com/tachyons@4.0.0-beta.31/css/tachyons.min.css">
+    <link rel="stylesheet" type="text/css" href="../assets/css/reset.css?v=b35be0cfa0">
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Lato:300,700,700italic,300italic">
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.4.0/styles/grayscale.min.css">
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.4.0/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
 
     <link rel="canonical" href="index.html">
     <meta name="referrer" content="origin">
@@ -62,44 +66,31 @@
     <meta name="generator" content="Ghost 0.8">
     <link rel="alternate" type="application/rss+xml" title="Pompeii Consulting" href="../rss/index.html">
 </head>
-<body class="post-template tag-getting-started nav-closed">
-
-    <div class="nav">
-    <h3 class="nav-title">Menu</h3>
-    <a href="index.html#" class="nav-close">
-        <span class="hidden">Close</span>
-    </a>
-    <ul>
-            <li class="nav-home" role="presentation"><a href="../">Home</a></li>
-    </ul>
-        <a class="subscribe-button icon-feed" href="../rss/index.rss">Subscribe</a>
-</div>
-<span class="nav-cover"></span>
+<body class="post-template tag-getting-started relative pb6 mt5" style="min-height:100vh;">
 
 
-    <div class="site-wrapper">
+    <div class="w-60-l w-90 ph3 ph0-l ph3-m center">
 
         
 
 
-<header class="main-header post-head no-cover">
-    <nav class="main-nav  clearfix">
-        
-            <a class="menu-button icon-menu" href="index.html#"><span class="word">Menu</span></a>
+<header>
+    <nav class="mb4 tc">
+            <a class="ttu no-underline link dim ba br2 ph3 pv1" href="../">Home</a>
     </nav>
 </header>
 
-<main class="content" role="main">
+<main class="" role="main">
     <article class="post tag-getting-started">
 
-        <header class="post-header">
-            <h1 class="post-title">Welcome to Ghost</h1>
-            <section class="post-meta">
-                <time class="post-date" datetime="2016-07-11">11 July 2016</time>  on <a href="../tag/getting-started/">Getting Started</a>
+        <header class="pb5">
+            <h1 class="f1-ns f2-m f3 fw3 tc ttu tracked mb0-ns">Welcome to Ghost</h1>
+            <section class="tc">
+                <time class="i ttu dark-gray" datetime="2016-07-11">11 July 2016</time>
             </section>
         </header>
 
-        <section class="post-content">
+        <section class="lh-copy f4-ns f5 center mw8 pb4">
             <p>You're live! Nice. We've put together a little post to introduce you to the Ghost editor and get you started. You can manage your content by signing in to the admin area at <code>&lt;your blog URL&gt;/ghost/</code>. When you arrive, you can select this post from a list on the left and see a preview of it on the right. Click the little pencil icon at the top of the preview to edit this post and read the next section!</p>
 
 <h2 id="gettingstarted">Getting Started</h2>
@@ -168,61 +159,27 @@
 <p>That should be enough to get you started. Have fun - and let us know what you think :)</p>
         </section>
 
-        <footer class="post-footer">
+        <aside class="pb5">
+                <a class="fr ph3 pv1 no-underline dim link ba br2 ttu f6" href="../welcome-to-my-blog/">Future</a>
+                <a class="fl ph3 pv1 no-underline dim link ba br2 ttu f6 disabled" href="../">Past</a>
+        </aside>
 
-
-
-            <section class="author">
-                <h4><a href="../author/pompeii/">Pompeii Consulting</a></h4>
-
-                    <p>Read <a href="../author/pompeii/">more posts</a> by this author.</p>
-                <div class="author-meta">
-                    
-                    
-                </div>
-            </section>
-
-
-            <section class="share">
-                <h4>Share this post</h4>
-                <a class="icon-twitter" href="https://twitter.com/intent/tweet?text=Welcome%20to%20Ghost&amp;url=http://localhost:2368/welcome-to-ghost/" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
-                    <span class="hidden">Twitter</span>
-                </a>
-                <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:2368/welcome-to-ghost/" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
-                    <span class="hidden">Facebook</span>
-                </a>
-                <a class="icon-google-plus" href="https://plus.google.com/share?url=http://localhost:2368/welcome-to-ghost/" onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
-                    <span class="hidden">Google+</span>
-                </a>
-            </section>
-
-
-        </footer>
+        <aside class="post-comments">
+            <div id="disqus_thread"></div>
+        </aside>
 
     </article>
 </main>
 
-<aside class="read-next">
-    <a class="read-next-story no-cover" href="../welcome-to-my-blog/">
-        <section class="post">
-            <h2>Welcome to My Blog</h2>
-            <p>This is Pompeii Consulting. On Git xkycd1123…</p>
-        </section>
-    </a>
-</aside>
 
-
-
-        <footer class="site-footer clearfix">
-            <section class="copyright"><a href="../">Pompeii Consulting</a> © 2016</section>
-            <section class="poweredby">Proudly published with <a href="https://ghost.org">Ghost</a></section>
-        </footer>
 
     </div>
+    <footer class="absolute w-100 left-0 bottom-0">
+        <section class="f6 tc pa3 ttu">Published with <a class="link dim" href="https://ghost.org">Ghost</a> using <a class="link dim" href="https://github.com/velveteer/inextinguishable">Inextinguishable</a></section>
+    </footer>
 
     <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+    <script type="text/javascript" src="../assets/js/scripts.js?v=b35be0cfa0"></script>
     
-    <script type="text/javascript" src="../assets/js/jquery.fitvids.js?v=2117262d81"></script>
-    <script type="text/javascript" src="../assets/js/index.js?v=2117262d81"></script>
 
 </body>
