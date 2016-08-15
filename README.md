@@ -1,2 +1,3 @@
-# Blog
-Powered by [Ghost](http://ghost.org) and [Buster](https://github.com/axitkhurana/buster/).
+<a href="http://www.pompeiiconsulting.com" target="_blank">Pompeii Consulting</a>
+<br>
+IT Consulting | IT Managment
