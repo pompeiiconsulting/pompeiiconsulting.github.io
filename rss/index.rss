@@ -1,2 +1,254 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Pompeii Consulting</title><description>IT Consulting | IT Management</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Mon, 11 Jul 2016 21:40:09 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Applied Project</title><description>Emerging Technology | IT Consulting | IT Management | Information Technology Consulting | Information Technology Management | Pompeii Consulting</description><link>http://localhost:2368/applied-project/</link><guid isPermaLink="false">8e58c10b-29dd-4943-9c9a-d1d54950d478</guid><category>information technology</category><category>applied project</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Mon, 11 Jul 2016 17:31:02 GMT</pubDate><content:encoded>&lt;p&gt;This section will be an applied project on emerging information technology issues. All of the concepts, theories, and frameworks learned in earlier sections will be used to develop an information technology backed transformation plan for a business. Effective presentation of this information will also be discussed and demonstrated.&lt;/p&gt;</content:encoded></item><item><title>Information Enabled Business Modeling</title><description>Big Data | Data Science | IT Consulting | IT Management | Information Technology Consulting | Information Technology Management | Pompeii Consulting</description><link>http://localhost:2368/information-enabled-business-modeling/</link><guid isPermaLink="false">b449c9cb-f109-40a2-9dba-5a7363c02ed6</guid><category>big data</category><category>analytical culture</category><category>data science</category><category>business strategy</category><category>business intelligence</category><category>data warehouse</category><category>databases</category><category>business modeling</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Mon, 11 Jul 2016 17:27:50 GMT</pubDate><content:encoded>&lt;p&gt;In this section we will look at how different organizations and industries are discovering the value of big data. Further, we will inspect the challenges and short comings of certain approaches and applications. The importance an organizational, analytical culture in conjunction with effective data science to create an informed business strategy is paramount.&lt;/p&gt;</content:encoded></item><item><title>IT Services and Project Management</title><description>IT Services | Project Management | IT Consulting | IT Management | Information Technology Consulting | Pompeii Consulting</description><link>http://localhost:2368/it-services-and-project-management/</link><guid isPermaLink="false">2e8b410f-4434-4772-a959-8b7d12cc4469</guid><category>information technology services</category><category>project management</category><category>commoditization of hardware</category><category>commoditization of software</category><category>business process</category><category>product development process</category><category>service delivery process</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Mon, 11 Jul 2016 17:18:59 GMT</pubDate><content:encoded>&lt;p&gt;Information technology services, the commoditization of hardware, the commoditization of software, and the business processes involved will be the main focuses of this section. Time will be spent on the information technology product development processes and on the information technology service delivery processes, with special consideration given to being on-time, on-budget, and meeting end user needs, all while using sound management principles.&lt;/p&gt;</content:encoded></item><item><title>Managing Enterprise Systems</title><description>Software Adoption | Emerging Technology | IT Consulting | Information Technology Consulting | Information Technology Management | Pompeii Consulting</description><link>http://localhost:2368/managing-enterprise-systems/</link><guid isPermaLink="false">0aabc773-04ca-4cc3-b3fe-c78024331d7c</guid><category>enterprise systems</category><category>software adoption</category><category>enterprise implementation</category><category>emerging technology</category><category>business enviroment</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Mon, 11 Jul 2016 17:10:29 GMT</pubDate><content:encoded>&lt;p&gt;The major categories of enterprise systems, factors dictating enterprise software adoption, and the fundamentals of enterprise wide implementation will be explored. A major focus will be on the potential impact of emerging technologies on enterprise systems and the business environment as a whole.&lt;/p&gt;</content:encoded></item><item><title>Emerging Technologies</title><description>Emerging Technology | IT Consulting | IT Management | Information Technology Consulting | Information Technology Management | Pompeii Consulting</description><link>http://localhost:2368/emerging-technologies/</link><guid isPermaLink="false">0081f906-961f-463c-9902-9f3d7a3443e8</guid><category>emerging technology</category><category>integration technology</category><category>mobile platform</category><category>mobile devices</category><category>semantic web</category><category>electronic collaboration</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Mon, 11 Jul 2016 17:03:58 GMT</pubDate><content:encoded>&lt;p&gt;In this section we will look at decision models and decision frameworks to assess, evaluate, and implement emerging technologies. The decision models and decision frameworks will be contextualized with respect to enterprise integration technologies, mobile platforms, mobile devices, semantic web, and electronic collaboration technologies.&lt;/p&gt;</content:encoded></item><item><title>Business Process and Workflow Analysis</title><description>Process Analysis | IT Consulting | IT Management | Information Technology Consulting | Information Technology Management | Pompeii Consulting</description><link>http://localhost:2368/business-process-and-workflow-analysis/</link><guid isPermaLink="false">8e161159-ece5-4d9d-941c-0c808a1179bb</guid><category>process analysis</category><category>business process</category><category>workflow analysis</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Mon, 11 Jul 2016 17:00:38 GMT</pubDate><content:encoded>&lt;p&gt;In this section we will look at information, documents, people, roles, and business rules and their importance in process analysis. We will learn how to understand the different business processes involved and how to perform workflow analysis on these processes. Also, attention will be given to rolling out change initiatives within an organization and the possible hurdles and issues that may be encountered.&lt;/p&gt;</content:encoded></item><item><title>Information Security and Controls</title><description>COBIT Framework | Data Security | IT Consulting | IT Management | Information Technology Consulting | Information Technology Management | Pompeii Consulting</description><link>http://localhost:2368/information-security-and-controls-2/</link><guid isPermaLink="false">4afe0e58-baca-432c-a91c-49181e325d22</guid><category>COBIT Framework</category><category>information security</category><category>data security</category><category>information controls</category><category>information technology governance</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Mon, 11 Jul 2016 16:52:24 GMT</pubDate><content:encoded>&lt;p&gt;Using the COBIT framework we will explore how a wide range of information security, data security, and information controls are designed and implemented. Further, we will look at how this leads to effective information technology governance. &lt;br&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Pompeii Consulting</title><description>IT Consulting | IT Management</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Mon, 15 Aug 2016 18:40:49 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Alibris Case Study</title><description>e-Commerce | Software Development | IT Consulting | IT Management | Information Technology Consulting | Pompeii Consulting</description><link>http://localhost:2368/e-commerce-case-study/</link><guid isPermaLink="false">40bd1757-1dc8-474b-a87a-3af384a1e089</guid><category>e-commerce</category><category>case study</category><category>IT Management</category><category>software development</category><category>Amazon.com</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Sun, 14 Aug 2016 17:02:00 GMT</pubDate><content:encoded>&lt;style&gt;  
+table, th, td {  
+    border: 1px solid black;
+}
+&lt;/style&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Alibris is an Internet-era company providing search and fulfillment services for hard-to-find (rare, used, and out-of-print) books. At the time of the case, the company had made decisions to change its revenue model, to become involved in the fulfillment process for each book it sells by establishing a cross-dock facility, and to purchase Oracle's Internet commerce software. However, the implementation of this software has been very difficult, delaying the launch of the new fulfillment business and costing large amounts of money at a time when cash is scarce. The company's leaders, who are not IT professionals, must decide whether to continue with Oracle or begin anew with another product.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="https://hbr.org/product/alibris-a/601111-PDF-ENG" target="_blank"&gt;Harvard Business Review&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id="exercise1"&gt;Exercise 1&lt;/h2&gt;
+
+&lt;h3 id="assumptions"&gt;Assumptions&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Technology is easy&lt;/li&gt;
+&lt;li&gt;Integrated information system is possible&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;  &lt;/p&gt;
+
+&lt;h3 id="questionstoconsider"&gt;Questions to Consider&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Will customers pay for convenience so books can be sold for more than the dealer’s asking price?&lt;/li&gt;
+&lt;li&gt;Will dealers will pay 20% and remain loyal?&lt;/li&gt;
+&lt;li&gt;Will dealers will list all of their books?&lt;/li&gt;
+&lt;li&gt;Can Alibris provide better quality control without impacting delivery time?&lt;/li&gt;
+&lt;li&gt;Can Alibris increase sales?&lt;/li&gt;
+&lt;li&gt;Will new entrants take their customers?&lt;/li&gt;
+&lt;li&gt;Will dealers list with their competitors?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;  &lt;/p&gt;
+
+&lt;h3 id="revenuemodels"&gt;Revenue Models&lt;/h3&gt;
+
+&lt;iframe width="100%" height="400" src="https://docs.google.com/spreadsheets/d/1mWa9ej7v4X4ko9aqGMdm7j5Q4RsO1LBlWu1gN0CrLuk/pubhtml?widget=true&amp;amp;headers=false"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br&gt;  &lt;/p&gt;
+
+&lt;h3 id="report"&gt;Report&lt;/h3&gt;
+
+&lt;h4 id="recommendation"&gt;Recommendation&lt;/h4&gt;
+
+&lt;p&gt;I recommend that Alibris pursue the New Revenue Model.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;  &lt;/p&gt;
+
+&lt;h4 id="newrevenuemodel"&gt;New Revenue Model&lt;/h4&gt;
+
+&lt;h5 id="netincome"&gt;Net Income:&lt;/h5&gt;
+
+&lt;table style="width:66%"&gt;  
+  &lt;tr&gt;
+    &lt;th&gt;1999&lt;/th&gt;
+    &lt;th&gt;2000&lt;/th&gt; 
+    &lt;th&gt;2001&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&amp;nbsp;&amp;nbsp;$1,233,000.00&lt;/td&gt;
+    &lt;td&gt;&amp;nbsp;&amp;nbsp;$2,169,000.00&lt;/td&gt;
+    &lt;td&gt;&amp;nbsp;&amp;nbsp;$3,105,000.00&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br&gt;  &lt;/p&gt;
+
+&lt;h5 id="assumptionshypotheses"&gt;Assumptions/Hypotheses:&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;That the $1,872,500 needed to implement this model can be acquired
+&lt;ul&gt;&lt;li&gt;It's 1998. Pets.com&lt;/li&gt;
+&lt;li&gt;Revenue model indicates an ROI of less than 1.5 years&lt;/li&gt;
+&lt;li&gt;In Santa Clara; In Silicon Valley&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Customer satisfaction will increase
+&lt;ul&gt;&lt;li&gt;Increased accountability&lt;/li&gt;
+&lt;li&gt;Centralized distribution/order consolidation&lt;/li&gt;
+&lt;li&gt;one box&lt;/li&gt;
+&lt;li&gt;one invoice&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;  &lt;/p&gt;
+
+&lt;h4 id="oldrevenuemodel"&gt;Old Revenue Model&lt;/h4&gt;
+
+&lt;h5 id="netincome"&gt;Net Income:&lt;/h5&gt;
+
+&lt;table style="width:66%"&gt;  
+  &lt;tr&gt;
+    &lt;th&gt;1999&lt;/th&gt;
+    &lt;th&gt;2000&lt;/th&gt; 
+    &lt;th&gt;2001&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&amp;nbsp;&amp;nbsp;$139,999.97&lt;/td&gt;
+    &lt;td&gt;&amp;nbsp;&amp;nbsp;$235,999.96&lt;/td&gt;
+    &lt;td&gt;&amp;nbsp;&amp;nbsp;$331,999.95&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br&gt;  &lt;/p&gt;
+
+&lt;h5 id="assumptionshypotheses"&gt;Assumptions/Hypotheses:&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Customer dissatisfaction will eventually drive business away
+&lt;ul&gt;&lt;li&gt;Customer experience is not easily monitored&lt;/li&gt;
+&lt;li&gt;Decentralized, no single point of contact for customers&lt;/li&gt;
+&lt;li&gt;Current 50-60% fulfillment rate, orders shipped within 2 days&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Competitors will provide better services
+&lt;ul&gt;&lt;li&gt;If it takes $1,872,500 to make the New Revenue Model happen, someone else can make that happen&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;  &lt;/p&gt;
+
+&lt;h4 id="recommendedactions"&gt;Recommended Actions&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Obtain funding from outside sources/Venture Capital to fund New Revenue Model &lt;/li&gt;
+&lt;li&gt;Asses current employee competency.
+&lt;ul&gt;&lt;li&gt;Restructuring base off of findings&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;&lt;br&gt;  &lt;/p&gt;
+
+&lt;h2 id="exercise2"&gt;Exercise 2&lt;/h2&gt;
+
+&lt;h3 id="assumptions"&gt;Assumptions&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The new revenue model is better than the old revenue model&lt;/li&gt;
+&lt;li&gt;Thunderstone and Oracle are the only options&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;  &lt;/p&gt;
+
+&lt;h3 id="questionstoconsider"&gt;Questions to Consider&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Will what worked for eBay work for Alibris?&lt;/li&gt;
+&lt;li&gt;Can Oracle succeed?&lt;/li&gt;
+&lt;li&gt;Will Thunderstone’s software scale?&lt;/li&gt;
+&lt;li&gt;Can Thunderstone solve the locking problem?&lt;/li&gt;
+&lt;li&gt;Is Thunderstone’s software maintainable?&lt;/li&gt;
+&lt;li&gt;Will Thunderstone stay in business?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;  &lt;/p&gt;
+
+&lt;h3 id="report"&gt;Report&lt;/h3&gt;
+
+&lt;h4 id="recommendation"&gt;Recommendation&lt;/h4&gt;
+
+&lt;p&gt;I recommend that Alibris pursues the Thunderstone Software solution.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;  &lt;/p&gt;
+
+&lt;h4 id="criteria"&gt;Criteria&lt;/h4&gt;
+
+&lt;h5 id="finances"&gt;Finances&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Resource utilization, trying to make Oracle work, 3 hires
+&lt;ul&gt;&lt;li&gt;Level 1 2,500/month&lt;/li&gt;
+&lt;li&gt;Consultant Level 2 22,000/month&lt;/li&gt;
+&lt;li&gt;Level 2 4,500/month&lt;/li&gt;
+&lt;li&gt;Avoid sunk cost fallacy&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;  &lt;/p&gt;
+
+&lt;h5 id="deadlines"&gt;Deadlines&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Oracle missing deadlines, no identified timeline&lt;/li&gt;
+&lt;li&gt;Thunderstone waffled whether possible, additional 60-90 days 
+&lt;ul&gt;&lt;li&gt;Possible credibility for being honest about feasibility, when first asked &lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;  &lt;/p&gt;
+
+&lt;h5 id="fulfillment"&gt;Fulfillment&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Oracle has no known fulfillment date
+&lt;ul&gt;&lt;li&gt;Large amount of custom coding required to get to work, not plug and play or up-gradable &lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Thunderstone "rescued eBay" from a similar situation 
+&lt;ul&gt;&lt;li&gt;Thunderstone has a "workaround" to record locking&lt;/li&gt;
+&lt;li&gt;The infrastructure and hardware for the solution is compatible&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;  &lt;/p&gt;
+
+&lt;h5 id="language"&gt;Language&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Oracle is ubiquitous&lt;/li&gt;
+&lt;li&gt;Thunderstone require proprietary Vortex
+&lt;ul&gt;&lt;li&gt;Hard to find developers&lt;/li&gt;
+&lt;li&gt;Long term support (LTS) is a concern&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;  &lt;/p&gt;
+
+&lt;h4 id="assumptions"&gt;Assumptions&lt;/h4&gt;
+
+&lt;h5 id="assumption"&gt;Assumption&lt;/h5&gt;
+
+&lt;p&gt;Thunderstone will be able to solve the locking problem.  &lt;/p&gt;
+
+&lt;h5 id="justification"&gt;Justification&lt;/h5&gt;
+
+&lt;p&gt;Claims they have a workaround that they already used for eBay.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;  &lt;/p&gt;
+
+&lt;h5 id="assumption"&gt;Assumption&lt;/h5&gt;
+
+&lt;p&gt;Alibris won't have to worry, in the near term, about having more traffic than eBay.  &lt;/p&gt;
+
+&lt;h5 id="justification"&gt;Justification&lt;/h5&gt;
+
+&lt;p&gt;CEO's own remarks. &lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;  &lt;/p&gt;
+
+&lt;h5 id="assumption"&gt;Assumption&lt;/h5&gt;
+
+&lt;p&gt;Thunderstone will be able to speed up queries, search results, and page load times.  &lt;/p&gt;
+
+&lt;h5 id="justification"&gt;Justification&lt;/h5&gt;
+
+&lt;p&gt;Alibris and eBay have similar business functions.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;  &lt;/p&gt;
+
+&lt;h4 id="actions"&gt;Actions&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Check to see if ebay systems are compatible or similar enough to the Alibris hardware.&lt;/li&gt;
+&lt;li&gt;Cut ties with Oracle.&lt;/li&gt;
+&lt;li&gt;Recoup funds from Oracle, due to not putting the software into production.&lt;/li&gt;
+&lt;li&gt;Reallocate resources to Thunderstone.&lt;/li&gt;
+&lt;li&gt;Evaluate the human capital required for the Thunderstone implementation, namely the three employees hired for the Oracle roll out.&lt;/li&gt;
+&lt;li&gt;Clarify whether if Texis is migrating from Vortex to a standard language. Based on result, may need to train in Vortex, start during during 60-90 day implementation.&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title>Applied Project</title><description>Emerging Technology | IT Consulting | IT Management | Information Technology Consulting | Information Technology Management | Pompeii Consulting</description><link>http://localhost:2368/applied-project/</link><guid isPermaLink="false">8e58c10b-29dd-4943-9c9a-d1d54950d478</guid><category>information technology</category><category>applied project</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Mon, 11 Jul 2016 17:31:02 GMT</pubDate><content:encoded>&lt;p&gt;This section will be an applied project on emerging information technology issues. All of the concepts, theories, and frameworks learned in earlier sections will be used to develop an information technology backed transformation plan for a business. Effective presentation of this information will also be discussed and demonstrated.&lt;/p&gt;</content:encoded></item><item><title>Information Enabled Business Modeling</title><description>Big Data | Data Science | IT Consulting | IT Management | Information Technology Consulting | Information Technology Management | Pompeii Consulting</description><link>http://localhost:2368/information-enabled-business-modeling/</link><guid isPermaLink="false">b449c9cb-f109-40a2-9dba-5a7363c02ed6</guid><category>big data</category><category>analytical culture</category><category>data science</category><category>business strategy</category><category>business intelligence</category><category>data warehouse</category><category>databases</category><category>business modeling</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Mon, 11 Jul 2016 17:27:50 GMT</pubDate><content:encoded>&lt;p&gt;In this section we will look at how different organizations and industries are discovering the value of big data. Further, we will inspect the challenges and short comings of certain approaches and applications. The importance an organizational, analytical culture in conjunction with effective data science to create an informed business strategy is paramount.&lt;/p&gt;</content:encoded></item><item><title>IT Services and Project Management</title><description>IT Services | Project Management | IT Consulting | IT Management | Information Technology Consulting | Pompeii Consulting</description><link>http://localhost:2368/it-services-and-project-management/</link><guid isPermaLink="false">2e8b410f-4434-4772-a959-8b7d12cc4469</guid><category>information technology services</category><category>project management</category><category>commoditization of hardware</category><category>commoditization of software</category><category>business process</category><category>product development process</category><category>service delivery process</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Mon, 11 Jul 2016 17:18:59 GMT</pubDate><content:encoded>&lt;p&gt;Information technology services, the commoditization of hardware, the commoditization of software, and the business processes involved will be the main focuses of this section. Time will be spent on the information technology product development processes and on the information technology service delivery processes, with special consideration given to being on-time, on-budget, and meeting end user needs, all while using sound management principles.&lt;/p&gt;</content:encoded></item><item><title>Managing Enterprise Systems</title><description>Software Adoption | Emerging Technology | IT Consulting | Information Technology Consulting | Information Technology Management | Pompeii Consulting</description><link>http://localhost:2368/managing-enterprise-systems/</link><guid isPermaLink="false">0aabc773-04ca-4cc3-b3fe-c78024331d7c</guid><category>enterprise systems</category><category>software adoption</category><category>enterprise implementation</category><category>emerging technology</category><category>business enviroment</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Mon, 11 Jul 2016 17:10:29 GMT</pubDate><content:encoded>&lt;p&gt;The major categories of enterprise systems, factors dictating enterprise software adoption, and the fundamentals of enterprise wide implementation will be explored. A major focus will be on the potential impact of emerging technologies on enterprise systems and the business environment as a whole.&lt;/p&gt;</content:encoded></item><item><title>Emerging Technologies</title><description>Emerging Technology | IT Consulting | IT Management | Information Technology Consulting | Information Technology Management | Pompeii Consulting</description><link>http://localhost:2368/emerging-technologies/</link><guid isPermaLink="false">0081f906-961f-463c-9902-9f3d7a3443e8</guid><category>emerging technology</category><category>integration technology</category><category>mobile platform</category><category>mobile devices</category><category>semantic web</category><category>electronic collaboration</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Mon, 11 Jul 2016 17:03:58 GMT</pubDate><content:encoded>&lt;p&gt;In this section we will look at decision models and decision frameworks to assess, evaluate, and implement emerging technologies. The decision models and decision frameworks will be contextualized with respect to enterprise integration technologies, mobile platforms, mobile devices, semantic web, and electronic collaboration technologies.&lt;/p&gt;</content:encoded></item><item><title>Business Process and Workflow Analysis</title><description>Process Analysis | IT Consulting | IT Management | Information Technology Consulting | Information Technology Management | Pompeii Consulting</description><link>http://localhost:2368/business-process-and-workflow-analysis/</link><guid isPermaLink="false">8e161159-ece5-4d9d-941c-0c808a1179bb</guid><category>process analysis</category><category>business process</category><category>workflow analysis</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Mon, 11 Jul 2016 17:00:38 GMT</pubDate><content:encoded>&lt;p&gt;In this section we will look at information, documents, people, roles, and business rules and their importance in process analysis. We will learn how to understand the different business processes involved and how to perform workflow analysis on these processes. Also, attention will be given to rolling out change initiatives within an organization and the possible hurdles and issues that may be encountered.&lt;/p&gt;</content:encoded></item><item><title>Information Security and Controls</title><description>COBIT Framework | Data Security | IT Consulting | IT Management | Information Technology Consulting | Information Technology Management | Pompeii Consulting</description><link>http://localhost:2368/information-security-and-controls-2/</link><guid isPermaLink="false">4afe0e58-baca-432c-a91c-49181e325d22</guid><category>COBIT Framework</category><category>information security</category><category>data security</category><category>information controls</category><category>information technology governance</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Mon, 11 Jul 2016 16:52:24 GMT</pubDate><content:encoded>&lt;p&gt;Using the COBIT framework we will explore how a wide range of information security, data security, and information controls are designed and implemented. Further, we will look at how this leads to effective information technology governance. &lt;br&gt;
 This will help us develop an intuitive understanding of information security and information technology governance. We will then asses the effectiveness of different forms of information security and varying iterations of organizational information security program designs.&lt;/p&gt;</content:encoded></item><item><title>Business Intelligence</title><description>Data Warehouse | IT Consulting | IT Management | Information Technology Consulting | Information Technology Management | Pompeii Consulting</description><link>http://localhost:2368/business-intelligence/</link><guid isPermaLink="false">8ffb778a-1094-40a9-aa26-3003cc8d53eb</guid><category>data warehouse</category><category>data warehousing</category><category>data mining</category><category>business intelligence</category><category>BI</category><category>DW</category><category>business analytics</category><category>business performance management</category><category>business</category><category>databases</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Mon, 11 Jul 2016 16:44:02 GMT</pubDate><content:encoded>&lt;p&gt;In this section we will discuss how Business Intelligence (BI) is used by organizations to gain a competitive advantage in the market place. This lays the groundwork for evidence based management decision making, using technologies such as data warehousing, data mining, and contemporary managerial theory: real time business intelligence, business analytics, and business performance management.&lt;/p&gt;</content:encoded></item><item><title>Strategic Value of Information Technology</title><description>IT Consulting | IT Management | Information Technology Consulting | Information Technology Management | Pompeii Consulting</description><link>http://localhost:2368/strategic-value-of-information-technology/</link><guid isPermaLink="false">416aa037-6a78-48a5-9f98-67b3614db606</guid><category>information technology</category><category>business</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Mon, 11 Jul 2016 16:36:35 GMT</pubDate><content:encoded>&lt;p&gt;Real world examples of the interconnection and interplay between Information Technology and Business will be given and discussed. These case studies will help show the critical thinking required in order to tackle IT related problems.&lt;/p&gt;</content:encoded></item><item><title>Data and Information Management</title><description>Databases | IT Consulting | IT Management | Information Technology Consulting | Information Technology Management | Pompeii Consulting</description><link>http://localhost:2368/data-and-information-management/</link><guid isPermaLink="false">ce277732-26d9-45fd-9244-d766a4073188</guid><category>data management</category><category>information management</category><category>entity relationship diagrams</category><category>data quality</category><category>analytics</category><category>databases</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Mon, 11 Jul 2016 16:31:29 GMT</pubDate><content:encoded>&lt;p&gt;In this section will cover issues related to information management that support innovation and competitive advantage. Data Modeling with Entity Relationship (ER) diagrams, data quality, building analytic capacity, and providing user friendly access to organizational data will all be covered.&lt;/p&gt;</content:encoded></item></channel></rss>
