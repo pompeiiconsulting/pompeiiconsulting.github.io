@@ -1,4 +1,428 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Pompeii Consulting</title><description>IT Consulting | IT Management</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Mon, 15 Aug 2016 19:53:17 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Alibris Case Study</title><description>e-Commerce | Software Development | IT Consulting | IT Management | Information Technology Consulting | Pompeii Consulting</description><link>http://localhost:2368/e-commerce-case-study/</link><guid isPermaLink="false">40bd1757-1dc8-474b-a87a-3af384a1e089</guid><category>e-commerce</category><category>case study</category><category>IT Management</category><category>software development</category><category>Amazon.com</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Sun, 14 Aug 2016 17:02:00 GMT</pubDate><content:encoded>&lt;style&gt;  
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Pompeii Consulting</title><description>IT Consulting | IT Management</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Wed, 17 Aug 2016 22:35:51 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Strategic Alignment</title><description>&lt;blockquote&gt;
+  &lt;p&gt;Many have argued that the Internet renders strategy obsolete. In reality, the opposite is true. Because the Internet tends to weaken industry profitability without providing proprietary operational advantages, it is more important than ever for companies to distinguish themselves through strategy. The winners will be those that view the Internet&lt;/p&gt;&lt;/blockquote&gt;</description><link>http://localhost:2368/strategic-alignment/</link><guid isPermaLink="false">dd62b66a-77c1-40e7-91b2-ad8d6080feb7</guid><dc:creator>Pompeii Consulting</dc:creator><pubDate>Wed, 17 Aug 2016 22:25:16 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+  &lt;p&gt;Many have argued that the Internet renders strategy obsolete. In reality, the opposite is true. Because the Internet tends to weaken industry profitability without providing proprietary operational advantages, it is more important than ever for companies to distinguish themselves through strategy. The winners will be those that view the Internet as a complement to, not a cannibal of, traditional ways of competing.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="https://hbr.org/product/strategy-and-the-internet/R0103D-PDF-ENG" target="_blank"&gt;Harvard Business Review&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id="informationsystemsstrategytriangle"&gt;Information Systems Strategy Triangle&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Business Strategy&lt;/li&gt;
+&lt;li&gt;Organization Strategy&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Information Strategy&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Successful when in alignment&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;Overriding business strategy, drive organizational and information strategies&lt;/li&gt;
+&lt;li&gt;Change in 1 require change in the other 2&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="strategy"&gt;Strategy&lt;/h4&gt;
+
+&lt;p&gt;coordinated set of actions to fulfill goals, objectives, and purposes; it involves mission and vision.  &lt;/p&gt;
+
+&lt;h4 id="businessstrategy"&gt;Business Strategy&lt;/h4&gt;
+
+&lt;p&gt;plan articulating where a business seeks to go and how it expects to get there.&lt;/p&gt;
+
+&lt;h4 id="sustainablecompetitiveadvantage"&gt;Sustainable competitive advantage:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;cost leadership: lower cost&lt;/li&gt;
+&lt;li&gt;differentiation: unique product&lt;/li&gt;
+&lt;li&gt;focus: limited scope&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="hypercompetitionmodelsuggestthatthespeedandmarketdynamicscreateanenvironmentsuchthat"&gt;Hyper-competition model suggest that the speed and market dynamics create an environment such that:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;every advantage is quickly eroded&lt;/li&gt;
+&lt;li&gt;sustaining an advantage can be a deadly distraction&lt;/li&gt;
+&lt;li&gt;goal of advantage should be disruption, not sustainability&lt;/li&gt;
+&lt;li&gt;initiatives are achieved through series of small steps&lt;/li&gt;
+&lt;li&gt;GE Destroy Your Business Project&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="strategicadvantagesrelatedtoinformationsystems"&gt;Strategic Advantages Related to Information Systems&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Managers cannot rely solely on IT to make IT decisions&lt;/li&gt;
+&lt;li&gt;Business strategy drives Information Systems decisions&lt;/li&gt;
+&lt;li&gt;Change in Information Systems potential triggers business reassessment
+&lt;ul&gt;&lt;li&gt;Internet, mobile, social networks&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Framework &lt;br&gt;
+Porter's Generic Strategies &lt;br&gt;
+Key Idea &lt;br&gt;
+Competitive advantage: cost, differentiate, focus &lt;br&gt;
+App to Information Systems &lt;br&gt;
+Information Systems chosen to match strategy&lt;/p&gt;
+
+&lt;p&gt;Famework &lt;br&gt;
+Dynamic Environment Strategies &lt;br&gt;
+Key Idea &lt;br&gt;
+Speed, agility, and aggressive moves and counter moves create competitive advantage &lt;br&gt;
+App to Information Systems &lt;br&gt;
+Information Systems critical to achieving the required speed of innovation, moves, and counter moves. In a constant state of flux/development.&lt;/p&gt;
+
+&lt;h3 id="organizationstrategyframework"&gt;Organization Strategy Framework&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;organization design and choices to make it work processes&lt;/li&gt;
+&lt;li&gt;How a company organizes to achieve it goals and implement its business strategy&lt;/li&gt;
+&lt;li&gt;Business Diamond identifies core components of the org's plan.
+&lt;ul&gt;&lt;li&gt;tasks and structure&lt;/li&gt;
+&lt;li&gt;management and measurement systems&lt;/li&gt;
+&lt;li&gt;values and belief&lt;/li&gt;
+&lt;li&gt;business processes&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="managerialleversframework"&gt;Managerial Levers Framework&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Strategy, Execution, Organizational Effectiveness&lt;/li&gt;
+&lt;li&gt;Success = organization variables + control variables + culture variables&lt;/li&gt;
+&lt;li&gt;Organization variables
+&lt;ul&gt;&lt;li&gt;business processes&lt;/li&gt;
+&lt;li&gt;formal Reporting relationships&lt;/li&gt;
+&lt;li&gt;informal networks&lt;/li&gt;
+&lt;li&gt;decision rights&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Control variables
+&lt;ul&gt;&lt;li&gt;decision rights&lt;/li&gt;
+&lt;li&gt;data&lt;/li&gt;
+&lt;li&gt;planning &lt;/li&gt;
+&lt;li&gt;performance measurements and evaluation&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Culture variables
+&lt;ul&gt;&lt;li&gt;Values&lt;/li&gt;
+&lt;li&gt;Incentives and rewards&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="informationsystemsstrategy"&gt;Information Systems Strategy&lt;/h4&gt;
+
+&lt;p&gt;the plan an organization uses to provide information services; helps implement business strategy and determine the company's capabilities&lt;/p&gt;
+
+&lt;h4 id="infrastructurecomponents"&gt;Infrastructure Components:&lt;/h4&gt;
+
+&lt;p&gt;What | Who | Where &lt;br&gt;
+Hardware: system components | individual users and managers | physical location &lt;br&gt;
+Software: programs, applications, and utilities | individuals and managers | hardware it is on an that hardwares location &lt;br&gt;
+Networking: Diagram of connection between hardware and software | individuals, managers, and company from | nodes, wires, and other media location &lt;br&gt;
+Data: Bits of information in system | individuals and managers | information is stored&lt;/p&gt;
+
+&lt;h4 id="erasofinformationusage"&gt;Eras of Information Usage&lt;/h4&gt;
+
+&lt;p&gt;Role of IT | Justification | Target | Models &lt;br&gt;
+Technology | Basis | Economics &lt;br&gt;
+60's &lt;br&gt;
+Efficiency | ROI | Organization | Application &lt;br&gt;
+Mainframe | Scarcity | Bundled &lt;br&gt;
+70's &lt;br&gt;
+Effectiveness | Productivity| Organization &amp;amp; Group | Data &lt;br&gt;
+Minicomputers| Scarcity | Bundled &lt;br&gt;
+80's &lt;br&gt;
+Strategic | Competitive | Individual &amp;amp; Group | User &lt;br&gt;
+Microcomputers | Scarcity | Bundled &lt;br&gt;
+1990's &lt;br&gt;
+Strategic/Transform | Competitive | Business Process | Business &lt;br&gt;
+Client-Server | Plentitude | Separated &lt;br&gt;
+2000's &lt;br&gt;
+Value &amp;amp; Partnership | Adding Value | Customer/Supplier | Knowledge &lt;br&gt;
+Internet | Plentitude | Separated &lt;br&gt;
+2010's &lt;br&gt;
+Community &amp;amp; Social | Relationships | Customer/Employee | People &lt;br&gt;
+Social, Mobile , Cloud | Plentitude | Relationships Bundled&lt;/p&gt;
+
+&lt;p&gt;Data -&gt; Information -&gt; Knowledge -&gt; Intelligence -&gt; Data&lt;/p&gt;
+
+&lt;p&gt;Information Resources: data, technology, people, and processes available to perform business processes and tasks &lt;br&gt;
+Move from efficiency model to value creation model&lt;/p&gt;
+
+&lt;h4 id="informationtechnologyasset"&gt;Information Technology Asset:&lt;/h4&gt;
+
+&lt;p&gt;Thing or idea used in creating, producing, and offering a product&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Information Technology Infrastructure: Hardware, software, network, data components, proprietary technology, web-based services&lt;/li&gt;
+&lt;li&gt;Information Repository: Critical information about customers that can be used to gain strategic advantage. Much of this information is increasingly available on the web&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="informationtechnologycapability"&gt;Information Technology Capability:&lt;/h4&gt;
+
+&lt;p&gt;Learned or developed over time to create, produce, or offer a product&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Technical Skill: Proficiency in systems analysis and design; programming skills&lt;/li&gt;
+&lt;li&gt;IT Management Skills: Being knowledgeable about business processes and managing systems to support them; evaluating technology options; envisioning creative Information Systems solutions to business problems&lt;/li&gt;
+&lt;li&gt;Relationship Skills: having a good relationship between IT and business managers; have a good relationship with an outsourcing vendor&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="valueofinformationresources"&gt;Value of Information Resources&lt;/h3&gt;
+
+&lt;p&gt;Network Effect: Value of a network node increases to a person or organization when others join the network. Rather than production cost (close to zero), valued is calculated as value to the buyer, which increases along with the size of the network.&lt;/p&gt;
+
+&lt;h3 id="thestrategiclandscape"&gt;The Strategic Landscape&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Managers confront elements that influence the competitive environment&lt;/li&gt;
+&lt;li&gt;Slim tolerance for error&lt;/li&gt;
+&lt;li&gt;Managers must take multiple views of the strategic landscape
+&lt;ul&gt;&lt;li&gt;External: Porter's 5 Forces model&lt;/li&gt;
+&lt;li&gt;Internal:Porter's Value Chain model&lt;/li&gt;
+&lt;li&gt;Resource-Based: Identify types of Information Systems resources and capabilities needed&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="portersfiveforcesmodel"&gt;Porters Five Forces Model:&lt;/h3&gt;
+
+&lt;p&gt;Shape external competitive environment&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Threat of New Entrants
+&lt;ul&gt;&lt;li&gt;switching costs&lt;/li&gt;
+&lt;li&gt;access to distribution channels&lt;/li&gt;
+&lt;li&gt;economies of scale&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Bargaining Power of Buyers
+&lt;ul&gt;&lt;li&gt;buyer selection&lt;/li&gt;
+&lt;li&gt;switching costs&lt;/li&gt;
+&lt;li&gt;differentiation&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Bargaining Power of Suppliers
+&lt;ul&gt;&lt;li&gt;selection of supplier&lt;/li&gt;
+&lt;li&gt;threat of backward integration&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Threat of Substitutes (equivalent or superior alternative)
+&lt;ul&gt;&lt;li&gt;redefine products and services&lt;/li&gt;
+&lt;li&gt;improve price/performance&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Industry Competitors
+&lt;ul&gt;&lt;li&gt;cost-effectiveness&lt;/li&gt;
+&lt;li&gt;market access&lt;/li&gt;
+&lt;li&gt;differentiation of product/service&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="portersvaluechainmodel"&gt;Porter's Value Chain Model:&lt;/h3&gt;
+
+&lt;p&gt;Internal activities that crate, deliver, and support products and services&lt;/p&gt;
+
+&lt;h4 id="primaryactivities"&gt;Primary Activities:&lt;/h4&gt;
+
+&lt;p&gt;relates directly to the value created in a product or service&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Inbound Logistics&lt;/li&gt;
+&lt;li&gt;Operations&lt;/li&gt;
+&lt;li&gt;Outbound Logistics&lt;/li&gt;
+&lt;li&gt;Marketing and Sales&lt;/li&gt;
+&lt;li&gt;Service &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="supportactivities"&gt;Support Activities:&lt;/h4&gt;
+
+&lt;p&gt;make it possible for the primary activities to exist and remain coordinated&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Organization&lt;/li&gt;
+&lt;li&gt;Human Resources&lt;/li&gt;
+&lt;li&gt;Technology&lt;/li&gt;
+&lt;li&gt;Purchasing&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="valuechainsystem"&gt;Value Chain System&lt;/h3&gt;
+
+&lt;p&gt;Advantage comes from understanding how information is used within and across the value chains in the system &lt;br&gt;
+ex: supply chain management (SCM) &lt;br&gt;
+supplier value chain -&gt; firm value chain -&gt; channel value chain -&gt; buyer value chain&lt;/p&gt;
+
+&lt;h3 id="resourcebasedviewrbv"&gt;Resource-Based View (RBV)&lt;/h3&gt;
+
+&lt;p&gt;Gain competitive advantage through the use of information resources&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Attain Competitive Advantage: rare and valuable&lt;/li&gt;
+&lt;li&gt;Sustain Competitive Advantage: difficult to substitute, imitate, and relatively immobile&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="potentialrisks"&gt;Potential Risks&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Awakening Sleeping Giant: large competitor with more capital incentives to implement Information Systems&lt;/li&gt;
+&lt;li&gt;Demonstrating bad timing: customers not ready for new technology&lt;/li&gt;
+&lt;li&gt;Poor Information Systems implementation&lt;/li&gt;
+&lt;li&gt;Failing to deliver firms target, usually fail&lt;/li&gt;
+&lt;li&gt;Web-based alternative removes advantages&lt;/li&gt;
+&lt;li&gt;Running afoul of the law&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="cocreatinginformationtechnologyandbusinessstrategy"&gt;Co-Creating Information Technology and Business Strategy&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Information core component of product or service offered by firms&lt;/li&gt;
+&lt;li&gt;Information Technology strategy should enable and drive business strategy: co-created&lt;/li&gt;
+&lt;li&gt;High Information Technology and Business strategic alignment&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="strategyandtheinternet"&gt;Strategy and the Internet&lt;/h2&gt;
+
+&lt;p&gt;Two factors determine profitability&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;industry structure&lt;/li&gt;
+&lt;li&gt;sustainable competitive advantage&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="howtheinternetinfluenceindustrystructure"&gt;How the Internet Influence Industry Structure&lt;/h3&gt;
+
+&lt;h4 id="threatofsubstituteproductsorservices"&gt;Threat of substitute products or services&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;(+) By making the overall industry more efficient, the Internet can expand the size of the market&lt;/li&gt;
+&lt;li&gt;(-) The proliferation of Internet approaches creates new substitution threats&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="bargainingpowerbargainingpowerofsuppliers"&gt;Bargaining power Bargaining power of Suppliers&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;(+/-) Procurement using the Internet tends to raise bargaining power over suppliers, though it can also give suppliers access to more customers&lt;/li&gt;
+&lt;li&gt;(-) The Internet provides a channel for suppliers to reach end users, reducing the leverage of intervening companies&lt;/li&gt;
+&lt;li&gt;(-) Internet procurement and digital markets tend to give all companies equal access to suppliers, and gravitate procurement to standardized products that
+reduce differentiation  &lt;/li&gt;
+&lt;li&gt;(-) Reduced barriers to entry and the proliferation of competitors downstream shifts power to suppliers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="rivalryamongexistingcompetitors"&gt;Rivalry among existing competitors&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;(-) Reduces differences among competitors as offerings are difficult to keep proprietary&lt;/li&gt;
+&lt;li&gt;(-) Migrates competition to price&lt;/li&gt;
+&lt;li&gt;(-) Widens the geographic market, increasing the number of competitors&lt;/li&gt;
+&lt;li&gt;(-) Lowers variable cost relative to fixed cost, increasing pressures for price discounting&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="buyers"&gt;Buyers&lt;/h4&gt;
+
+&lt;h5 id="bargainingpowerofchannels"&gt;Bargaining power of channels&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;(+) Eliminates powerful
+channels or improves bargaining power over traditional channels&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id="bargainingpowerofendusers"&gt;Bargaining power of end users&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;(-) Shifts bargaining power to end consumers&lt;/li&gt;
+&lt;li&gt;(-) Reduces switching costs&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="barrierstoentry"&gt;Barriers to Entry&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;(-) Reduces barriers to entry such as the need for a sales force, access to channels, and physical assets – anything that Internet technology eliminates or makes easier to do reduces barriers to entry&lt;/li&gt;
+&lt;li&gt;(-) Internet applications are difficult to keep proprietary from new entrants&lt;/li&gt;
+&lt;li&gt;(-) A flood of new entrants has come into many industries&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="impactsoftheinternetoncompetitiveadvantage"&gt;Impacts of the internet on competitive advantage&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;operational effectiveness -&gt; competitive convergence&lt;/li&gt;
+&lt;li&gt;strategic position -&gt; convenience, service, specialization, customization&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="sixprinciplesofstrategicpositioning"&gt;Six Principles of Strategic Positioning&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;right goal&lt;/li&gt;
+&lt;li&gt;value proposition&lt;/li&gt;
+&lt;li&gt;distinct value chain&lt;/li&gt;
+&lt;li&gt;tradeoffs&lt;/li&gt;
+&lt;li&gt;fit&lt;/li&gt;
+&lt;li&gt;continuity&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Internet should complement, not canalize traditional actives &lt;br&gt;
+Strategic imperatives for dot-coms vs established companies&lt;/p&gt;
+
+&lt;h3 id="prominentapplicationsoftheinternetinthevaluechain"&gt;Prominent Applications of the Internet in the Value Chain&lt;/h3&gt;
+
+&lt;h4 id="supportactivities"&gt;Support Activities&lt;/h4&gt;
+
+&lt;h5 id="firminfrastructure"&gt;Firm Infrastructure&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Web-based, distributed financial and ERP systems&lt;/li&gt;
+&lt;li&gt;On-line investor relations (e.g., information dissemination, broadcast conference calls)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id="humanresourcemanagement"&gt;Human Resource Management&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Self-service personnel and benefits administration&lt;/li&gt;
+&lt;li&gt;Web-based training&lt;/li&gt;
+&lt;li&gt;Internet-based sharing and dissemination of company information&lt;/li&gt;
+&lt;li&gt;Electronic time and expense reporting&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id="technologydevelopment"&gt;Technology Development&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Collaborative product design across locations and among multiple value-system participants&lt;/li&gt;
+&lt;li&gt;Knowledge directories accessible from all parts of the organization&lt;/li&gt;
+&lt;li&gt;Real-time access by R&amp;amp;D to on-line sales and service information&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id="procurement"&gt;Procurement&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Internet-enabled demand planning; real-time available-to-promise/capable-to-promise and fulfillment&lt;/li&gt;
+&lt;li&gt;Other linkage of purchase, inventory, and forecasting systems with suppliers&lt;/li&gt;
+&lt;li&gt;Automated “requisition to pay”&lt;/li&gt;
+&lt;li&gt;Direct and indirect procurement via marketplaces, exchanges, auctions, and buyer-seller matching&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="primaryactivities"&gt;Primary Activities&lt;/h4&gt;
+
+&lt;h5 id="inboundlogistics"&gt;Inbound Logistics&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Real-time integrated scheduling, shipping, warehouse management, demand management and planning, and advanced planning and scheduling across the company and its suppliers&lt;/li&gt;
+&lt;li&gt;Dissemination throughout the company of real-time inbound and in-progress inventory data&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id="operations"&gt;Operations&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Integrated information exchange, scheduling, and decision making in in-house plants, contract assemblers, and components suppliers&lt;/li&gt;
+&lt;li&gt;Real-time available-to- promise and capable- to-promise information available to the sales force and channels&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id="outboundlogistics"&gt;Outbound Logistics&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Real-time transaction of orders whether initiated by an end consumer, a sales person, or a channel partner&lt;/li&gt;
+&lt;li&gt;Automated customer- specific agreements and contract terms&lt;/li&gt;
+&lt;li&gt;Customer and channel ac- cess to product development and delivery status&lt;/li&gt;
+&lt;li&gt;Collaborative integration with customer forecasting systems&lt;/li&gt;
+&lt;li&gt;Integrated channel management including information exchange, warranty claims, and con- tract management (versioning, process control)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id="marketingandsales"&gt;Marketing and Sales&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;On-line sales channels including Web sites and marketplaces&lt;/li&gt;
+&lt;li&gt;Real-time inside and outside access to customer information, product catalogs, dynamic pricing, inventory availability, on-line submission of quotes, and order entry&lt;/li&gt;
+&lt;li&gt;On-line product configurators&lt;/li&gt;
+&lt;li&gt;Customer-tailored market- ing via customer profiling&lt;/li&gt;
+&lt;li&gt;Push advertising&lt;/li&gt;
+&lt;li&gt;Tailored on-line access&lt;/li&gt;
+&lt;li&gt;Real-time customer feed-back through Web surveys, opt-in/opt-out marketing, and promotion response tracking&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id="aftersalesservice"&gt;After-Sales Service&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;On-line support of customer service representatives through e-mail response management, billing integration, co- browse, chat, “call me now,” voice-over-IP, and other uses of video streaming&lt;/li&gt;
+&lt;li&gt;Customer self-service via Web sites and intelligent service request processing including updates to billing and shipping profiles&lt;/li&gt;
+&lt;li&gt;Real-time field service access to customer account review, schematic review, parts availability and ordering, work-order update, and service parts management&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href="https://hbr.org/2001/03/strategy-and-the-internet" target="_blank"&gt;Harvard Business Review&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title>Alibris Case Study</title><description>e-Commerce | Software Development | IT Consulting | IT Management | Information Technology Consulting | Pompeii Consulting</description><link>http://localhost:2368/e-commerce-case-study/</link><guid isPermaLink="false">40bd1757-1dc8-474b-a87a-3af384a1e089</guid><category>e-commerce</category><category>case study</category><category>IT Management</category><category>software development</category><category>Amazon.com</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Sun, 14 Aug 2016 17:02:00 GMT</pubDate><content:encoded>&lt;style&gt;  
 table, th, td {  
     border: 1px solid black;
 }
