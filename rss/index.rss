@@ -1,4 +1,84 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Pompeii Consulting</title><description>IT Consulting | IT Management</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Wed, 17 Aug 2016 23:44:44 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Strategic Alignment</title><description>IT Strategy | Competitive Advantage | IT Consulting | IT Management | Information Technology Consulting | Pompeii Consulting</description><link>http://localhost:2368/strategic-alignment/</link><guid isPermaLink="false">dd62b66a-77c1-40e7-91b2-ad8d6080feb7</guid><category>Harvard Business Review</category><category>information systems</category><category>competitive advantage</category><category>information technology</category><category>business strategy</category><category>strategic advantage</category><category>value chain</category><category>Value of IT</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Wed, 17 Aug 2016 22:25:16 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Pompeii Consulting</title><description>IT Consulting | IT Management</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Thu, 18 Aug 2016 22:21:04 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Business Basics</title><description>Economics | IT Consulting | IT Management | Information Technology Consulting | Information Technology Management | Pompeii Consulting</description><link>http://localhost:2368/business-information-technology/</link><guid isPermaLink="false">6cd6b498-0442-4aac-8bf0-d821ab5f821e</guid><category>business</category><category>profit</category><category>law of demand</category><category>law of supply</category><category>network effect</category><category>economics</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Thu, 18 Aug 2016 22:17:09 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+  &lt;p&gt;It is not from the benevolence of the butcher, the brewer, or the baker, that we expect our dinner, but from their regard to their own interest&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Adam Smith, &lt;em&gt;The Wealth of Nations&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Businesses try to maximize profit &lt;br&gt;
+Profit, net income, net earnings, bottom line (of income statement)&lt;/p&gt;
+
+&lt;p&gt;Profit = Total Revenues - Total Costs &lt;br&gt;
+Profit = (Price x Quantity) - (Total Fixed Costs + Total Variable Costs)&lt;/p&gt;
+
+&lt;p&gt;To increase profit&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;increase total revenue
+&lt;ul&gt;&lt;li&gt;increase price&lt;/li&gt;
+&lt;li&gt;increase quantity&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;decrease total costs
+&lt;ul&gt;&lt;li&gt;decrease fixed costs&lt;/li&gt;
+&lt;li&gt;decrease variable costs&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="lawofdemand"&gt;Law of Demand&lt;/h3&gt;
+
+&lt;p&gt;Inverse relationship between price and quantity&lt;/p&gt;
+
+&lt;h4 id="demandsideeconomiesofscale"&gt;Demand Side Economies of Scale&lt;/h4&gt;
+
+&lt;p&gt;Violates the Law of Demand&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Luxury Goods: as price increases so does quantity
+&lt;ul&gt;&lt;li&gt;Rolex, Gucci&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Network Goods: as quantity increases so does price
+&lt;ul&gt;&lt;li&gt;Microsoft Office, Skype, Facebook&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="supplysideeconomics"&gt;Supply Side Economics&lt;/h3&gt;
+
+&lt;p&gt;Desire to decrease average fixed cost and average variable cost&lt;/p&gt;
+
+&lt;h4 id="supplysideeconomiesofscale"&gt;Supply Side Economies of Scale&lt;/h4&gt;
+
+&lt;p&gt;Increase quantity leads to a decrease in average costs&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Average Fixed Costs = Total Fixed Costs / Quantity
+&lt;ul&gt;&lt;li&gt;Fixed cost leverage&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Average Variable Costs = Total Variable Costs / Quantity
+&lt;ul&gt;&lt;li&gt;volume discount, learning effect, division of labor&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="maximizeprofit"&gt;Maximize Profit&lt;/h3&gt;
+
+&lt;p&gt;Marginal Revenues = Marginal Costs&lt;/p&gt;
+
+&lt;h3 id="informationtechnology"&gt;Information Technology&lt;/h3&gt;
+
+&lt;h4 id="impactsonprofitability"&gt;Impacts on Profitability&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Network Effects
+&lt;ul&gt;&lt;li&gt;Winner take all systems&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Software
+&lt;ul&gt;&lt;li&gt;large fixed cost&lt;/li&gt;
+&lt;li&gt;near zero variable costs&lt;/li&gt;
+&lt;li&gt;example: freeware&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Information Technology enhanced learning&lt;/li&gt;
+&lt;li&gt;Information Technology based transformation of industry structure
+&lt;ul&gt;&lt;li&gt;example: Netflix vs Blockbuster&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="businessethics"&gt;Business Ethics&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Resources be used efficiently and allocated effectively&lt;/li&gt;
+&lt;li&gt;Greatest economic value can be created&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href="http://pompeiiconsulting.com/strategic-value-of-information-technology"&gt;Strategic Value of Information Technology&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title>Strategic Alignment</title><description>IT Strategy | Competitive Advantage | IT Consulting | IT Management | Information Technology Consulting | Pompeii Consulting</description><link>http://localhost:2368/strategic-alignment/</link><guid isPermaLink="false">dd62b66a-77c1-40e7-91b2-ad8d6080feb7</guid><category>Harvard Business Review</category><category>information systems</category><category>competitive advantage</category><category>information technology</category><category>business strategy</category><category>strategic advantage</category><category>value chain</category><category>Value of IT</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Wed, 17 Aug 2016 22:25:16 GMT</pubDate><content:encoded>&lt;blockquote&gt;
   &lt;p&gt;Many have argued that the Internet renders strategy obsolete. In reality, the opposite is true. Because the Internet tends to weaken industry profitability without providing proprietary operational advantages, it is more important than ever for companies to distinguish themselves through strategy. The winners will be those that view the Internet as a complement to, not a cannibal of, traditional ways of competing.&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -681,4 +761,5 @@ This will help us develop an intuitive understanding of information security and
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://pompeiiconsulting.com/strategic-alignment" target="_blank"&gt;Strategic Alignment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://pompeiiconsulting.com/business-information-technology" target="_blank"&gt;Business Basics&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title>Data and Information Management</title><description>Databases | IT Consulting | IT Management | Information Technology Consulting | Information Technology Management | Pompeii Consulting</description><link>http://localhost:2368/data-and-information-management/</link><guid isPermaLink="false">ce277732-26d9-45fd-9244-d766a4073188</guid><category>data management</category><category>information management</category><category>entity relationship diagrams</category><category>data quality</category><category>analytics</category><category>databases</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Mon, 11 Jul 2016 16:31:29 GMT</pubDate><content:encoded>&lt;p&gt;In this section will cover issues related to information management that support innovation and competitive advantage. Data Modeling with Entity Relationship (ER) diagrams, data quality, building analytic capacity, and providing user friendly access to organizational data will all be covered.&lt;/p&gt;</content:encoded></item></channel></rss>
