@@ -1,4 +1,391 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Pompeii Consulting</title><description>IT Consulting | IT Management</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Mon, 22 Aug 2016 18:41:38 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Strategy and the Internet</title><description>Internet Business |Competitive Advantage IT Consulting | IT Management | Information Technology Consulting | Pompeii Consulting</description><link>http://localhost:2368/competitive-advantage-internet/</link><guid isPermaLink="false">8fd2b1bf-5275-45ae-9ede-462e05540e77</guid><category>business strategy</category><category>information technology</category><category>information management</category><category>competitive advantage</category><category>internet</category><category>disruptive innovation</category><category>information strategy</category><category>organizational strategy</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Mon, 22 Aug 2016 18:34:20 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Pompeii Consulting</title><description>IT Consulting | IT Management</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Tue, 23 Aug 2016 23:44:21 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>IT and Business Organization Strategy</title><description>Telecommuting | Virtual Teams | Organizational Structures | IT Consulting | IT Management | Pompeii Consulting</description><link>http://localhost:2368/information-technology-business-organization-strategy/</link><guid isPermaLink="false">6f889599-1c69-4f14-be00-8ddca9651424</guid><category>organizational strategy</category><category>data mining</category><category>electronic collaboration</category><category>organizational structures</category><category>networked organization</category><category>telecommuting</category><category>data collection</category><category>virtual teams</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Tue, 23 Aug 2016 23:40:57 GMT</pubDate><content:encoded>&lt;h3 id="organizationalstrategy"&gt;Organizational Strategy&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Organization's design and work processes&lt;/li&gt;
+&lt;li&gt;Optimize organizational design&lt;/li&gt;
+&lt;li&gt;Optimize management control systems&lt;/li&gt;
+&lt;li&gt;Organization structure is the way of designing an organization so decision rights are correctly allocated.&lt;/li&gt;
+&lt;li&gt;The structure of reporting relationships reflects the flow of communication and decision making in an organization.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="organizationalstructures"&gt;Organizational Structures&lt;/h3&gt;
+
+&lt;h4 id="hierarchicalorganizationalstructure"&gt;Hierarchical Organizational Structure&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Description: Bureaucratic with defined levels of management&lt;/li&gt;
+&lt;li&gt;Characteristics: Division of labor specialization, unity of command&lt;/li&gt;
+&lt;li&gt;Best Environment: Stable Certain&lt;/li&gt;
+&lt;li&gt;Basis of Structure: Primary function&lt;/li&gt;
+&lt;li&gt;Power Structure: Centralized&lt;/li&gt;
+&lt;li&gt;Key Supporting Technology: Mainframe, centralized data and processing&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="flatorganizationalstructure"&gt;Flat Organizational Structure&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Description: Decision-making pushed down to lowest level&lt;/li&gt;
+&lt;li&gt;Characteristics: Informal roles, planning and control; often small, young organizations&lt;/li&gt;
+&lt;li&gt;Best Environment: Unstable Uncertain&lt;/li&gt;
+&lt;li&gt;Basis of Structure: Primary function&lt;/li&gt;
+&lt;li&gt;Power Structure: Centralized&lt;/li&gt;
+&lt;li&gt;Key Supporting Technology: Personal computers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="matrixorganizationalstructure"&gt;Matrix Organizational Structure&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Description: Workers assigned to two or more supervisors&lt;/li&gt;
+&lt;li&gt;Characteristics: Dual reporting based on function/purpose&lt;/li&gt;
+&lt;li&gt;Best Environment: Unstable Uncertain&lt;/li&gt;
+&lt;li&gt;Basis of Structure: Functions and purpose&lt;/li&gt;
+&lt;li&gt;Power Structure: Distributed&lt;/li&gt;
+&lt;li&gt;Key Supporting Technology: Networks&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="networkedorganizationalstructure"&gt;Networked Organizational Structure&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Description: Formal/informal communication networks that connect all&lt;/li&gt;
+&lt;li&gt;Characteristics: Known for flexibility and adaptability&lt;/li&gt;
+&lt;li&gt;Best Environment: Unstable Uncertain&lt;/li&gt;
+&lt;li&gt;Basis of Structure: Networks&lt;/li&gt;
+&lt;li&gt;Power Structure: Distributed&lt;/li&gt;
+&lt;li&gt;Key Supporting Technology: Intranets and Internet&lt;/li&gt;
+&lt;li&gt;Employees share their knowledge and experience,and participate in making key organizational decisions.&lt;/li&gt;
+&lt;li&gt;Information Systems are fundamental to process design, improve process efficiency, effectiveness, and flexibility.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="informalnetworks"&gt;Informal Networks&lt;/h3&gt;
+
+&lt;h4 id="informalrelationshipsdesignatedbymanagement"&gt;Informal Relationships designated by management&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;working on a project&lt;/li&gt;
+&lt;li&gt;job rotation program&lt;/li&gt;
+&lt;li&gt;call upon past co-workers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="unintendednetworks"&gt;Unintended Networks&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;work proximity&lt;/li&gt;
+&lt;li&gt;shared interests&lt;/li&gt;
+&lt;li&gt;family ties&lt;/li&gt;
+&lt;li&gt;politics crossing organizations&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="socialnetworking"&gt;Social Networking&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;links individuals together&lt;/li&gt;
+&lt;li&gt;find experts&lt;/li&gt;
+&lt;li&gt;meet colleges&lt;/li&gt;
+&lt;li&gt;find relevant experience&lt;/li&gt;
+&lt;li&gt;crosses traditional organizations&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="managementcontrol"&gt;Management Control&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Information technology affects how managers control their organizations&lt;/li&gt;
+&lt;li&gt;Management control systems respond to goals established through planning&lt;/li&gt;
+&lt;li&gt;Goals are periodically adjusted&lt;/li&gt;
+&lt;li&gt;Control work at process level&lt;/li&gt;
+&lt;li&gt;Organizational structure will dictate level of managerial control&lt;/li&gt;
+&lt;li&gt;Information Systems in Management Control Processes:
+&lt;ul&gt;&lt;li&gt;data collection&lt;/li&gt;
+&lt;li&gt;evaluation&lt;/li&gt;
+&lt;li&gt;communication&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Gives management more time to make decisions&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="datacollectionandinformationtechnology"&gt;Data Collection and Information Technology&lt;/h3&gt;
+
+&lt;p&gt;Monitoring work using information technology&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;keystrokes&lt;/li&gt;
+&lt;li&gt;time spent on a task&lt;/li&gt;
+&lt;li&gt;who is contacted &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="organizationaldesignchallengesindatacollection"&gt;Organizational design challenges in data collection&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;embedded monitoring tasks within everyday work&lt;/li&gt;
+&lt;li&gt;reduce the negative impacts to monitored workers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="datacollectionsoftware"&gt;Data collection software&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;can backfire, cause stress&lt;/li&gt;
+&lt;li&gt;used to reward, not just punish&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="evaluationandinformationtechnology"&gt;Evaluation and Information Technology&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Information Technology enables evaluating against standard data and historical data&lt;/li&gt;
+&lt;li&gt;models can be built&lt;/li&gt;
+&lt;li&gt;simulations designed&lt;/li&gt;
+&lt;li&gt;managers can easily understand work progress and performance&lt;/li&gt;
+&lt;li&gt;analysis paralysis: too much data or information&lt;/li&gt;
+&lt;li&gt;how feedback is communicated effects behavior&lt;/li&gt;
+&lt;li&gt;information handled discreetly and appropriately&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="incentivesandrewardandinformationtechnology"&gt;Incentives and Reward and Information Technology&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ways to incentivize good performance&lt;/li&gt;
+&lt;li&gt;can make employees feel good and boost morale&lt;/li&gt;
+&lt;li&gt;use websites to recognize high performers&lt;/li&gt;
+&lt;li&gt;reward with new technology&lt;/li&gt;
+&lt;li&gt;Information Technology allows for complex reward systems, shared and team based&lt;/li&gt;
+&lt;li&gt;consider metrics and qualitative data in assigning compensation and rewards&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="informationsystemsandculture"&gt;Information Systems and Culture&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;culture is one managerial lever &lt;/li&gt;
+&lt;li&gt;set of values and beliefs about what is desirable and undesirable in a community of people&lt;/li&gt;
+&lt;li&gt;culture is always changing&lt;/li&gt;
+&lt;li&gt;national culture differences effect information systems development and use&lt;/li&gt;
+&lt;li&gt;understand and appreciate cultural values, practices, and subtleties&lt;/li&gt;
+&lt;li&gt;improve communications and reduce conflict&lt;/li&gt;
+&lt;li&gt;listening, framing, and responding to feedback&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="informationtechnologyandvirtualorganization"&gt;Information Technology and Virtual Organization&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;time and place of work blended&lt;/li&gt;
+&lt;li&gt;can do work at home, own own time&lt;/li&gt;
+&lt;li&gt;virtual organization is a networked structure that makes it possible for individuals to work and live anywhere&lt;/li&gt;
+&lt;li&gt;internet and corporate intranets create the opportunity for individuals to work from anywhere&lt;/li&gt;
+&lt;li&gt;virtual organizations depend upon collaboration&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="workdesignframework"&gt;Work Design Framework&lt;/h3&gt;
+
+&lt;p&gt;Used to asses how emerging information technology affects work&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;What work will be performed?&lt;/li&gt;
+&lt;li&gt;Who is going to do the work?&lt;/li&gt;
+&lt;li&gt;Where will the work be performed?&lt;/li&gt;
+&lt;li&gt;When will the work be performed?&lt;/li&gt;
+&lt;li&gt;How can information technology increase the effectiveness of the workers doing the work?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="informationtechnologytofacilitatecommunication"&gt;Information Technology to Facilitate Communication&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;email&lt;/li&gt;
+&lt;li&gt;intranet&lt;/li&gt;
+&lt;li&gt;instant messaging (IM)&lt;/li&gt;
+&lt;li&gt;Voice over IP (VoIP)&lt;/li&gt;
+&lt;li&gt;Video Teleconferencing&lt;/li&gt;
+&lt;li&gt;Unified Communications (UC)&lt;/li&gt;
+&lt;li&gt;Really Simple Syndication (RSS)&lt;/li&gt;
+&lt;li&gt;Virtual Private Network (VPN)&lt;/li&gt;
+&lt;li&gt;File Transfer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="informationtechnologytofacilitatecollaboration"&gt;Information Technology to Facilitate Collaboration&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;social networking&lt;/li&gt;
+&lt;li&gt;virtual worlds&lt;/li&gt;
+&lt;li&gt;web logs (blogs)&lt;/li&gt;
+&lt;li&gt;wikis&lt;/li&gt;
+&lt;li&gt;groupware&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="informationtechnologychangesnatureofwork"&gt;Information Technology Changes Nature of Work&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;creates many new jobs&lt;/li&gt;
+&lt;li&gt;redefines existing ones
+&lt;ul&gt;&lt;li&gt;the way work is done&lt;/li&gt;
+&lt;li&gt;communication patterns&lt;/li&gt;
+&lt;li&gt;organizational decision making&lt;/li&gt;
+&lt;li&gt;information processing&lt;/li&gt;
+&lt;li&gt;collaboration&lt;/li&gt;
+&lt;li&gt;ways to connect&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;how to manage workforce
+&lt;ul&gt;&lt;li&gt;supervising&lt;/li&gt;
+&lt;li&gt;evaluating&lt;/li&gt;
+&lt;li&gt;rewarding&lt;/li&gt;
+&lt;li&gt;hiring&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;careers
+&lt;ul&gt;&lt;li&gt;programers&lt;/li&gt;
+&lt;li&gt;business analysts&lt;/li&gt;
+&lt;li&gt;information technology managers&lt;/li&gt;
+&lt;li&gt;hardware assemblers&lt;/li&gt;
+&lt;li&gt;web site designers&lt;/li&gt;
+&lt;li&gt;softwares sales personnel&lt;/li&gt;
+&lt;li&gt;information technology consultants&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="traditionalsubjectiveobservation"&gt;Traditional: Subjective Observation&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Supervision: Personal and informal. Manager is usually present or relies on others to ensure that employee is present and productive.&lt;/li&gt;
+&lt;li&gt;Evaluation: Focus is on process through direct observation. Manager sees how employee performed at work. Subjective (personal) factors are very important.&lt;/li&gt;
+&lt;li&gt;Compensation: Often individually-based.&lt;/li&gt;
+&lt;li&gt;Hiring: Personal with little reliance on computers. Often more reliance on clerical skills.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="modernobjectiveobservation"&gt;Modern: Objective Observation&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Supervision: Electronic or assessed by deliverable. As long as the employee is producing value, he does not need formal supervisions.&lt;/li&gt;
+&lt;li&gt;Evaluation: Focus is on output by deliverable (e.g., produce a report by a certain date) or by target (e.g., meet a sales quota). As long as deliverables are produced and/or targets are achieved, the employee is meeting performance expectations adequately. Subjective factors may be less important and harder to gauge.&lt;/li&gt;
+&lt;li&gt;Compensation: Often team-based or contractually spelled out.&lt;/li&gt;
+&lt;li&gt;Hiring: Often electronic with recruiting websites and electronic testing. More information- based work that requires a higher level of IT skills.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="telecommuting"&gt;Telecommuting&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Started in 1970's&lt;/li&gt;
+&lt;li&gt;Gained popularity in late 1990's&lt;/li&gt;
+&lt;li&gt;reduces stress&lt;/li&gt;
+&lt;li&gt;geographic flexibility&lt;/li&gt;
+&lt;li&gt;higher productivity&lt;/li&gt;
+&lt;li&gt;tapping housebound individuals&lt;/li&gt;
+&lt;li&gt;difficult for managers to evaluate performance&lt;/li&gt;
+&lt;li&gt;workers must be extremely self disciplined&lt;/li&gt;
+&lt;li&gt;may end up working more hours&lt;/li&gt;
+&lt;li&gt;can be disconnected from corporate culture&lt;/li&gt;
+&lt;li&gt;offshoring enabled by same technology&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="managerialissuesintelecommuting"&gt;Managerial Issues in Telecommuting&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;planning, business, and support tasks must be redesigned to support mobile and remote workers&lt;/li&gt;
+&lt;li&gt;training should be offered so all workers understand the new work environment&lt;/li&gt;
+&lt;li&gt;employees must be self starters&lt;/li&gt;
+&lt;li&gt;managers must fined new ways to evaluate and supervise employees without seeing them everyday&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="virtualteams"&gt;Virtual Teams&lt;/h4&gt;
+
+&lt;p&gt;Geographically or organizationally dispersed coworkers assembled using information technology and telecommunications&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;same drivers as telecommuting&lt;/li&gt;
+&lt;li&gt;teams in different parts of the world can cooperate
+&lt;ul&gt;&lt;li&gt;get jobs done faster&lt;/li&gt;
+&lt;li&gt;around the clock&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;different time zones&lt;/li&gt;
+&lt;li&gt;security is harder to ensure&lt;/li&gt;
+&lt;li&gt;lose nuances of face to face conversation&lt;/li&gt;
+&lt;li&gt;trust may be slower to form&lt;/li&gt;
+&lt;li&gt;diversity of team members
+&lt;ul&gt;&lt;li&gt;language&lt;/li&gt;
+&lt;li&gt;culture&lt;/li&gt;
+&lt;li&gt;customs&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="lifecycleofvirtualteams"&gt;Life Cycle of Virtual Teams&lt;/h4&gt;
+
+&lt;h5 id="preparation"&gt;Preparation&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;mission statement&lt;/li&gt;
+&lt;li&gt;personnel selection&lt;/li&gt;
+&lt;li&gt;task design&lt;/li&gt;
+&lt;li&gt;rewards sustem&lt;/li&gt;
+&lt;li&gt;technology selection&lt;/li&gt;
+&lt;li&gt;technology installment&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id="launch"&gt;Launch&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;kickoff meetings&lt;/li&gt;
+&lt;li&gt;getting acquainted&lt;/li&gt;
+&lt;li&gt;goal clarification&lt;/li&gt;
+&lt;li&gt;norm development&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id="performancemanagement"&gt;Performance Management&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;leadership&lt;/li&gt;
+&lt;li&gt;communication&lt;/li&gt;
+&lt;li&gt;conflict resolution&lt;/li&gt;
+&lt;li&gt;task accomplishment&lt;/li&gt;
+&lt;li&gt;motivation&lt;/li&gt;
+&lt;li&gt;knowledge management&lt;/li&gt;
+&lt;li&gt;norm enforcement&lt;/li&gt;
+&lt;li&gt;norm shaping&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id="teamdevelopment"&gt;Team Development&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;assessment of needs and deficits&lt;/li&gt;
+&lt;li&gt;individual or team training&lt;/li&gt;
+&lt;li&gt;evaluation of training effects&lt;/li&gt;
+&lt;li&gt;trust building&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id="disbanding"&gt;Disbanding&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;recognition of achievements&lt;/li&gt;
+&lt;li&gt;reintegration of team members&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="managerialissuesinvirtualteams"&gt;Managerial Issues in Virtual Teams&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;require different style and type of management&lt;/li&gt;
+&lt;li&gt;observation is less likely to occur&lt;/li&gt;
+&lt;li&gt;performance is more likely to be based on output&lt;/li&gt;
+&lt;li&gt;providing feedback is important&lt;/li&gt;
+&lt;li&gt;compensation should be based on team performance&lt;/li&gt;
+&lt;li&gt;align rewards with achievement of team goals&lt;/li&gt;
+&lt;li&gt;challenges
+&lt;ul&gt;&lt;li&gt;communication&lt;/li&gt;
+&lt;li&gt;technology&lt;/li&gt;
+&lt;li&gt;diversity&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="informationtechnologyinducedchange"&gt;Information Technology Induced Change&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;in order to avoid resistance to change, must actively manage the change process&lt;/li&gt;
+&lt;li&gt;employee attitudes may change if perception of new system is it helps them do more work, better work for the same or less effort, and it is easy to use&lt;/li&gt;
+&lt;li&gt;employee participation in system design and implementation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="technologyacceptancemodel"&gt;Technology Acceptance Model&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Individual Differences&lt;/li&gt;
+&lt;li&gt;System Characteristics&lt;/li&gt;
+&lt;li&gt;Social Influence&lt;/li&gt;
+&lt;li&gt;Facilitating Conditions&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Technology Acceptance Model (TAM)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Perceived Usefulness&lt;/li&gt;
+&lt;li&gt;Perceived Ease of Use
+&lt;ul&gt;&lt;li&gt;Behavioral Intention&lt;/li&gt;
+&lt;li&gt;Use Behavior&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href="http://pompeiiconsulting.com/strategic-value-of-information-technology"&gt;Strategic Value of Information Technology&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title>Strategy and the Internet</title><description>Internet Business |Competitive Advantage IT Consulting | IT Management | Information Technology Consulting | Pompeii Consulting</description><link>http://localhost:2368/competitive-advantage-internet/</link><guid isPermaLink="false">8fd2b1bf-5275-45ae-9ede-462e05540e77</guid><category>business strategy</category><category>information technology</category><category>information management</category><category>competitive advantage</category><category>internet</category><category>disruptive innovation</category><category>information strategy</category><category>organizational strategy</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Mon, 22 Aug 2016 18:34:20 GMT</pubDate><content:encoded>&lt;blockquote&gt;
   &lt;p&gt;Many of the pioneers of Internet business, both dot-coms and established companies, have competed in ways that violate nearly every precept of good strategy. Rather than focus on profits, they have chased customers indiscriminately through discounting, channel incentives, and advertising. Rather than concentrate on delivering value that earns an attractive price from customers, they have pursued indirect revenues such as advertising and click-through fees. Rather than make trade-offs, they have rushed to offer every conceivable product or service. It did not have to be this way--and it does not have to be in the future. When it comes to reinforcing a distinctive strategy, Michael Porter argues, the Internet provides a better technological platform than previous generations of IT. Gaining competitive advantage does not require a radically new approach to business; it requires building on the proven principles of effective strategy. Porter argues that, contrary to recent thought, the Internet is not disruptive to most existing industries and established companies. It rarely nullifies important sources of competitive advantage in an industry; it often makes them even more valuable. And as all companies embrace Internet technology, the Internet itself will be neutralized as a source of advantage. Robust competitive advantages will arise instead from traditional strengths such as unique products, proprietary content, and distinctive physical activities. Internet technology may be able to fortify those advantages, but it is unlikely to supplant them.&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -799,4 +1186,6 @@ This will help us develop an intuitive understanding of information security and
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://pompeiiconsulting.com/strategic-alignment" target="_blank"&gt;Strategic Alignment&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://pompeiiconsulting.com/business-information-technology" target="_blank"&gt;Business Basics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://pompeiiconsulting.com/competitive-advantage-internet" target="_blank"&gt;Strategy and the Internet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://pompeiiconsulting.com/information-technology-business-organization-strategy" target="_blank"&gt;Business Basics&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title>Data and Information Management</title><description>Databases | IT Consulting | IT Management | Information Technology Consulting | Information Technology Management | Pompeii Consulting</description><link>http://localhost:2368/data-and-information-management/</link><guid isPermaLink="false">ce277732-26d9-45fd-9244-d766a4073188</guid><category>data management</category><category>information management</category><category>entity relationship diagrams</category><category>data quality</category><category>analytics</category><category>databases</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Mon, 11 Jul 2016 16:31:29 GMT</pubDate><content:encoded>&lt;p&gt;In this section will cover issues related to information management that support innovation and competitive advantage. Data Modeling with Entity Relationship (ER) diagrams, data quality, building analytic capacity, and providing user friendly access to organizational data will all be covered.&lt;/p&gt;</content:encoded></item></channel></rss>
