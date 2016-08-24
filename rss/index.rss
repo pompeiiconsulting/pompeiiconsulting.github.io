@@ -1,4 +1,71 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Pompeii Consulting</title><description>IT Consulting | IT Management</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Tue, 23 Aug 2016 23:44:21 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>IT and Business Organization Strategy</title><description>Telecommuting | Virtual Teams | Organizational Structures | IT Consulting | IT Management | Pompeii Consulting</description><link>http://localhost:2368/information-technology-business-organization-strategy/</link><guid isPermaLink="false">6f889599-1c69-4f14-be00-8ddca9651424</guid><category>organizational strategy</category><category>data mining</category><category>electronic collaboration</category><category>organizational structures</category><category>networked organization</category><category>telecommuting</category><category>data collection</category><category>virtual teams</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Tue, 23 Aug 2016 23:40:57 GMT</pubDate><content:encoded>&lt;h3 id="organizationalstrategy"&gt;Organizational Strategy&lt;/h3&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Pompeii Consulting</title><description>IT Consulting | IT Management</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Wed, 24 Aug 2016 00:36:24 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Productivity Analysis</title><description>Productivity Analysis | Productivity Growth | Efficiency Change | Technical Change | IT Consulting | IT Management | Pompeii Consulting
+</description><link>http://localhost:2368/business-information-technology-productivity-analysis/</link><guid isPermaLink="false">755bbe7e-5fbc-4616-b710-dc18c2e3e89d</guid><category>information technology</category><category>productivity analysis</category><category>productivity</category><category>efficiency</category><category>productivity growth</category><category>efficiency change</category><category>technical change</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Wed, 24 Aug 2016 00:35:03 GMT</pubDate><content:encoded>&lt;h3 id="performanceevaluation"&gt;Performance Evaluation&lt;/h3&gt;
+
+&lt;p&gt;"You can't manage what you can't measure." 
+- Peter Ducker
+&lt;br&gt;  &lt;/p&gt;
+
+&lt;h4 id="productivity"&gt;Productivity&lt;/h4&gt;
+
+&lt;p&gt;productivity = output produced / input consumed&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;always a rational number, 0 &amp;lt;= p &amp;lt; ∞&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id="productivitygrowth"&gt;Productivity Growth&lt;/h5&gt;
+
+&lt;p&gt;productivity growth = productivity at t+1 / productivity at t&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;always an index, 0 &amp;lt;= pg &amp;lt;= 1&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="efficiency"&gt;Efficiency&lt;/h4&gt;
+
+&lt;p&gt;efficiency = output produced / output maximum &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;aways a ratio or percentage, 0 &amp;lt;= e &amp;lt; 1&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id="efficiencychange"&gt;Efficiency Change&lt;/h5&gt;
+
+&lt;p&gt;efficiency change = efficiency at t+1 / efficiency at t&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;always an index, 0 &amp;lt;= ec &amp;lt;= 1&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="technicalchange"&gt;Technical Change&lt;/h4&gt;
+
+&lt;p&gt;Production frontier is the line that specifies the ideal maximum output produced at any input level&lt;/p&gt;
+
+&lt;p&gt;technical change = slope of production frontier at t+1 / slope of production frontier at t&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;always an index,  0 &amp;lt;= pf &amp;lt;= 1&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="productivitygrowthefficiencychangetechnicalchange"&gt;Productivity Growth = Efficiency Change * Technical Change&lt;/h4&gt;
+
+&lt;p&gt;&lt;br&gt;  &lt;/p&gt;
+
+&lt;h3 id="productivityanalysis"&gt;Productivity Analysis&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Information technology and business management need to know how effectively and efficiently activities are being performed&lt;/li&gt;
+&lt;li&gt;effectiveness: do the right thing&lt;/li&gt;
+&lt;li&gt;efficiency: the the thing right&lt;/li&gt;
+&lt;li&gt;the ability to measure and compare information technology activities&lt;/li&gt;
+&lt;li&gt;gauge how well information technology is performing&lt;/li&gt;
+&lt;li&gt;see if information technology is meeting the demands of the firm&lt;/li&gt;
+&lt;li&gt;challenge is choosing what and when to measure&lt;/li&gt;
+&lt;li&gt;monitor and control information technology activities&lt;/li&gt;
+&lt;li&gt;improve performance and demonstrate information technology value&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href="http://pompeiiconsulting.com/strategic-value-of-information-technology"&gt;Strategic Value of Information Technology&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title>IT and Business Organization Strategy</title><description>Telecommuting | Virtual Teams | Organizational Structures | IT Consulting | IT Management | Pompeii Consulting</description><link>http://localhost:2368/information-technology-business-organization-strategy/</link><guid isPermaLink="false">6f889599-1c69-4f14-be00-8ddca9651424</guid><category>organizational strategy</category><category>data mining</category><category>electronic collaboration</category><category>organizational structures</category><category>networked organization</category><category>telecommuting</category><category>data collection</category><category>virtual teams</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Tue, 23 Aug 2016 23:40:57 GMT</pubDate><content:encoded>&lt;h3 id="organizationalstrategy"&gt;Organizational Strategy&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Organization's design and work processes&lt;/li&gt;
@@ -1187,5 +1254,6 @@ This will help us develop an intuitive understanding of information security and
 &lt;li&gt;&lt;a href="http://pompeiiconsulting.com/strategic-alignment" target="_blank"&gt;Strategic Alignment&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://pompeiiconsulting.com/business-information-technology" target="_blank"&gt;Business Basics&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://pompeiiconsulting.com/competitive-advantage-internet" target="_blank"&gt;Strategy and the Internet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://pompeiiconsulting.com/information-technology-business-organization-strategy" target="_blank"&gt;Business Basics&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title>Data and Information Management</title><description>Databases | IT Consulting | IT Management | Information Technology Consulting | Information Technology Management | Pompeii Consulting</description><link>http://localhost:2368/data-and-information-management/</link><guid isPermaLink="false">ce277732-26d9-45fd-9244-d766a4073188</guid><category>data management</category><category>information management</category><category>entity relationship diagrams</category><category>data quality</category><category>analytics</category><category>databases</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Mon, 11 Jul 2016 16:31:29 GMT</pubDate><content:encoded>&lt;p&gt;In this section will cover issues related to information management that support innovation and competitive advantage. Data Modeling with Entity Relationship (ER) diagrams, data quality, building analytic capacity, and providing user friendly access to organizational data will all be covered.&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;li&gt;&lt;a href="http://pompeiiconsulting.com/information-technology-business-organization-strategy" target="_blank"&gt;IT and Business Organizational Strategy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://pompeiiconsulting.com/business-information-technology-productivity-analysis" target="_blank"&gt;Productivity Analysis&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item></channel></rss>
