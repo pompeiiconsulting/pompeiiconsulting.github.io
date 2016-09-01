@@ -1,4 +1,542 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Pompeii Consulting</title><description>IT Consulting | IT Management</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Tue, 30 Aug 2016 00:05:16 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Otis Elevator Case Study</title><description>Customer Relationship Management | IT Consulting | IT Management | Information Technology Consulting | Pompeii Consulting</description><link>http://localhost:2368/otis-information-technology-crm/</link><guid isPermaLink="false">708a9f0b-cac7-462d-91cb-bcbf4b58e806</guid><category>information technolog</category><category>supply chain management</category><category>customer relationship management</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Tue, 30 Aug 2016 00:05:09 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Pompeii Consulting</title><description>IT Consulting | IT Management</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Thu, 01 Sep 2016 19:22:57 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Information Technology Valuation</title><description>Real Options | IT Investment | IT Portfolio | CIO | IT Consulting | IT Management | Pompeii Consulting</description><link>http://localhost:2368/information-technology-portfolio-management-investing/</link><guid isPermaLink="false">d4b7fc98-eff6-45e3-8d91-448aa39406b2</guid><category>financial instruments</category><category>capital budgeting</category><category>corporate finance</category><category>chief information officer</category><category>CIO</category><category>real options</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Thu, 01 Sep 2016 19:22:12 GMT</pubDate><content:encoded>&lt;h2 id="businessinformationtechnologymaturitymodel"&gt;Business Information Technology Maturity Model&lt;/h2&gt;
+
+&lt;h3 id="level1businessefficiency"&gt;Level 1 Business Efficiency&lt;/h3&gt;
+
+&lt;h4 id="level1businessdemand"&gt;Level 1 Business Demand&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;foundation systems&lt;/li&gt;
+&lt;li&gt;cost savings&lt;/li&gt;
+&lt;li&gt;operation information&lt;/li&gt;
+&lt;li&gt;functional orientation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="level1itfocus"&gt;Level 1 IT Focus&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;provide basic services and systems&lt;/li&gt;
+&lt;li&gt;stabilize operation and support&lt;/li&gt;
+&lt;li&gt;improve business processes&lt;/li&gt;
+&lt;li&gt;IT management fundamentals&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="level2businesseffectiveness"&gt;Level 2 Business Effectiveness&lt;/h3&gt;
+
+&lt;h4 id="level2businessdemand"&gt;Level 2 Business Demand&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;business network and process redesign&lt;/li&gt;
+&lt;li&gt;enable business and partnerships&lt;/li&gt;
+&lt;li&gt;enterprise process solutions&lt;/li&gt;
+&lt;li&gt;management information&lt;/li&gt;
+&lt;li&gt;process orientation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="level2itfocus"&gt;Level 2 IT Focus&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;establish common IT infrastructure&lt;/li&gt;
+&lt;li&gt;meet customer’s expectations&lt;/li&gt;
+&lt;li&gt;build IT credibility &lt;/li&gt;
+&lt;li&gt;improve solution delivery&lt;/li&gt;
+&lt;li&gt;establish enterprise architecture&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="level3businesstransformation"&gt;Level 3 Business Transformation&lt;/h3&gt;
+
+&lt;h4 id="level3businessdemand"&gt;Level 3 Business Demand&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;inter enterprise systems and infrastructure&lt;/li&gt;
+&lt;li&gt;business growth&lt;/li&gt;
+&lt;li&gt;innovation&lt;/li&gt;
+&lt;li&gt;rapid reconfiguration capability&lt;/li&gt;
+&lt;li&gt;market information&lt;/li&gt;
+&lt;li&gt;business integration orientation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="level3itfocus"&gt;Level 3 IT Focus&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;continuous planning&lt;/li&gt;
+&lt;li&gt;converge business and IT&lt;/li&gt;
+&lt;li&gt;expand and extend infrastructure&lt;/li&gt;
+&lt;li&gt;enable flexibility and agility&lt;/li&gt;
+&lt;li&gt;innovation and value&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="itorganizationactivities"&gt;IT Organization Activities&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Developing and Maintaining Systems
+&lt;ul&gt;&lt;li&gt;Work together with business users to analyze needs, design the software, write or code the software, and test it to make sure it works and meets the business objectives; identify, acquire, and install outside software packages to fill business needs; maintain systems; address post-implementation needs, such as correcting system errors or enhancing the system to respond to changing business environments and governmental regulations.&lt;/li&gt;
+&lt;li&gt;Level 1&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Managing Supplier Relationships
+&lt;ul&gt;&lt;li&gt;Maximize the benefit of supplier relationships to the enterprise and preempt problems that might occur. &lt;/li&gt;
+&lt;li&gt;Level 1&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Managing Data, Information, and Knowledge
+&lt;ul&gt;&lt;li&gt;Database administration: collect and store data created, developed, or discovered by the enterprise (Level 1); manage enterprise information and knowledge (Level 2).&lt;/li&gt;
+&lt;li&gt;Level 1,2&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Managing Internet and Network Systems
+&lt;ul&gt;&lt;li&gt;Develop and maintain Internet capabilities; manage private networks, telephone systems, access to the Internet, and new wireless technologies; design network architecture; build and maintain the network infrastructure.&lt;/li&gt;
+&lt;li&gt;Level 1,2 (depending on nature of network)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Managing Human Resources
+&lt;ul&gt;&lt;li&gt;Provide sufficient business and technical training so that staff can perform effectively and retain their value to the enterprise; hire staff; work to retain staff; fire poor performers; track time; work with enterprise HR personnel, who may be familiar with interviewing approaches, personnel laws, regulations, and trends.&lt;/li&gt;
+&lt;li&gt;Level 1&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Operating the Data Center
+&lt;ul&gt;&lt;li&gt;Operate and maintain large mainframe computers, rows of servers, or other platforms on which the company’s data and business applications reside, or other hardware.&lt;/li&gt;
+&lt;li&gt;Level 1&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Providing General Support
+&lt;ul&gt;&lt;li&gt;Varies but may include helpdesk activities: maintain the first client contact through a centralized helpdesk even for such diverse services as networking and telecommunications; collect pertinent information, record it, determine its priority, contact the appropriate support personnel, and follow up with the business contacts with updates or resolution information.&lt;/li&gt;
+&lt;li&gt;Level 1&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Planning for Business Discontinuities
+&lt;ul&gt;&lt;li&gt;Develop and implement business continuity plan to counter terrorist attacks, intentional fraud, hurricanes, tornadoes, floods, or other man-made and natural disasters that could cripple the enterprise.&lt;/li&gt;
+&lt;li&gt;Level 1&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Innovating Current Processes
+&lt;ul&gt;&lt;li&gt;Work with managers to innovate processes that can benefit from technological solutions (i.e., Social IT, installing voice mail to networking personal computers, automating general ledger transactions, ERP implementations); design systems that facilitate new ways of doing business.&lt;/li&gt;
+&lt;li&gt;Level 2&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Establishing Architecture Platforms and Standards
+&lt;ul&gt;&lt;li&gt;Develop, maintain, and communicate standards; ensure consistent data so that the integrity of a data warehouse won’t be undermined.&lt;/li&gt;
+&lt;li&gt;Level 2&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Promoting Enterprise Security
+&lt;ul&gt;&lt;li&gt;Maintain the integrity of the enterprise infrastructure; implement enterprise information security strategy; identify and prioritize threats to the enterprise’s information assets; develop and implement security policies and technical controls and infrastructure to address each threat; work with the business units to make their operational practices more secure and to train employees about security risks and the importance of security to their work; implement an awareness program that keeps security on employees’ minds as they deal with information on a daily basis; participate in discussions about security investments.&lt;/li&gt;
+&lt;li&gt;Level 2&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Anticipating New Technologies
+&lt;ul&gt;&lt;li&gt;Scout new technology trends and help the business integrate them into planning and operations; assess the costs and benefits of new technologies for the enterprise; work closely with business groups to determine which technologies can provide the greatest benefit, how the technologies might affect the organization, how they might advance the business strategy, and when they should be implemented; ensure that the enterprise does not invest heavily in new technologies that quickly become obsolete or incompatible with other enterprise standards.&lt;/li&gt;
+&lt;li&gt;Level 3&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Participating in Setting and Implementing Strategic Goals
+&lt;ul&gt;&lt;li&gt;Enable business managers to achieve strategic goals by acting as consultants or by teaching them about developing technologies; advise managers on best practices within IT and work with them to develop IT enhanced solutions to business problems; educate managers about current technologies; serve as partners in moving the enterprise forward.&lt;/li&gt;
+&lt;li&gt;Level 3&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Integrating the Use of Social IT
+&lt;ul&gt;&lt;li&gt;Leverage the use of social IT to create a business transformation; transform social IT from personal to business use; provide customer-, supplier-, and employee-facing applications for engagement, collaboration, and innovation; and manage the data resulting from social IT to provide business insights.&lt;/li&gt;
+&lt;li&gt;Level 3&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="buildingabusinesscaseforit"&gt;Building a Business Case for IT&lt;/h2&gt;
+
+&lt;p&gt;IT organization is charged with providing solutions&lt;/p&gt;
+
+&lt;p&gt;An IT business case&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;created to gain support and go ahead decision on an IT proposal&lt;/li&gt;
+&lt;li&gt;is similar to a legal case&lt;/li&gt;
+&lt;li&gt;is a structured document that lays out all of the relevant information needed to make a go no-go decision&lt;/li&gt;
+&lt;li&gt;helps establish priorities for investing in different projects&lt;/li&gt;
+&lt;li&gt;identifies how IT and the business can deliver new benefits&lt;/li&gt;
+&lt;li&gt;gains commitment from business managers&lt;/li&gt;
+&lt;li&gt;creates a basis for monitoring the investment&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A framework for identifying and describing both financial and non-financial benefits for a cost-risk-benefit analysis for a business case &lt;/p&gt;
+
+&lt;h2 id="itportfoliomanagement"&gt;IT Portfolio Management&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;IT portfolio management refers to the process of evaluating and approving IT investments as they relate to other current and potential IT investments&lt;/li&gt;
+&lt;li&gt;IT investments should be managed as any other investments would be managed by an organization&lt;/li&gt;
+&lt;li&gt;involves picking the right mix of investments to enjoy synergy, in lower risks and greater returns&lt;/li&gt;
+&lt;li&gt;don’t put all of your eggs in one basket&lt;/li&gt;
+&lt;li&gt;goal is to invest in most valuable IT initiatives that generate maximum benefits&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="assetclassesofitportfolio"&gt;Asset Classes of IT Portfolio&lt;/h2&gt;
+
+&lt;p&gt;Four assets classes of IT investments&lt;/p&gt;
+
+&lt;h3 id="infrastructuresystems"&gt;Infrastructure Systems&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;the base foundation of shared information technology services used for multiple applications&lt;/li&gt;
+&lt;li&gt;46% of IT expenditure&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="transactionalsystems"&gt;Transactional Systems&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;systems that streamline or cut costs on business operations&lt;/li&gt;
+&lt;li&gt;25% of IT expenditure&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="informationsystems"&gt;Information Systems&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;systems that provide information to control, manage, communicate, analyze, or collaborate&lt;/li&gt;
+&lt;li&gt;18% of IT expenditure&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="strategicsystem"&gt;Strategic System&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;system used to gain competitive advantage in the market place&lt;/li&gt;
+&lt;li&gt;11% of IT expenditure&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="valuingitinvestments"&gt;Valuing IT Investments&lt;/h2&gt;
+
+&lt;p&gt;IT investments are difficult to assess value for because:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;IT can be a significant part of the annual budget, thus under close scrutiny&lt;/li&gt;
+&lt;li&gt;the systems themselves are complex and calculating the costs is an art not a science&lt;/li&gt;
+&lt;li&gt;many IT investments are for infrastructure; the payback period is much longer than other capital investments&lt;/li&gt;
+&lt;li&gt;oftentimes the payback cannot be calculated because the investment is a necessity rather than a choice&lt;/li&gt;
+&lt;li&gt;there is no tangible payback&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;IT investment valuation is necessary&lt;/p&gt;
+
+&lt;h3 id="approachestoitvaluation"&gt;Approaches to IT Valuation&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Return on Investment (ROI)
+&lt;ul&gt;&lt;li&gt;ROI= (Estimated lifetime benefits - Estimated lifetime costs) / (Estimated lifetime costs)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Net Present Value (NPV)
+&lt;ul&gt;&lt;li&gt;Calculated by discounting the costs and benefits for each year of system’s lifetime using present value (PV)&lt;/li&gt;
+&lt;li&gt;Discounted Cash Flow (DCF)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Economic Value Added (EVA)
+&lt;ul&gt;&lt;li&gt;EVA = (net operating profit after taxes) – (capital) x (weighted average cost of capital)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Payback Analysis
+&lt;ul&gt;&lt;li&gt;Time that will lapse before accrued benefits overtake accrued and continuing costs&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Internal Rate of Return (IRR)
+&lt;ul&gt;&lt;li&gt;Return that the IT investment is compared to the corporate policy on rate of return&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Weighted Scoring Methods
+&lt;ul&gt;&lt;li&gt;Costs and revenues/savings are weighted based on their strategic importance, etc.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Prototyping
+&lt;ul&gt;&lt;li&gt;A scaled-down version of a system is tested for its costs and benefits&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Game Theory or Role-playing
+&lt;ul&gt;&lt;li&gt;These approaches may surface behavioral changes or new tasks attributable to a new system&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Simulation
+&lt;ul&gt;&lt;li&gt;A model is used to test the impact of a new system or series of tasks; low-cost method&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="optionspricing"&gt;Options Pricing&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;NPV involves only tow choices
+&lt;ul&gt;&lt;li&gt;we do&lt;/li&gt;
+&lt;li&gt;we don't&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;options pricing allows one to take future action in response to uncertainty about changes in the business environment&lt;/li&gt;
+&lt;li&gt;offers a risk hedge strategy to minimize negative impact of risk by waiting to see what happens&lt;/li&gt;
+&lt;li&gt;applicable when
+&lt;ul&gt;&lt;li&gt;an investment can be deferred&lt;/li&gt;
+&lt;li&gt;a balance between waiting for information and forgoing revenues&lt;/li&gt;
+&lt;li&gt;emerging investments&lt;/li&gt;
+&lt;li&gt;prototyping investment&lt;/li&gt;
+&lt;li&gt;technology as product investments&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Used along with DCF when the decision to pursue an investment can be deferred for some period of time&lt;/li&gt;
+&lt;li&gt;many investments particularly strategic ones like IT bear a strong resemblance to a financial call option&lt;/li&gt;
+&lt;li&gt;a call option is an option but not an obligation to buy an asset with value (S) by paying a pre-set price (X) on or before a certain point in time
+&lt;ul&gt;&lt;li&gt;European Option: on a specific date&lt;/li&gt;
+&lt;li&gt;American Option: on or before a specific date&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;NPV only allows managers to make a decision now on an asset and then see what happens&lt;/li&gt;
+&lt;li&gt;managers can get to wait and see what happens, until some uncertainty is resolved and then make decision to invest or not&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="realoptions"&gt;Real Options&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;real options allow managers to defer investment decisions and enjoy:
+&lt;ul&gt;&lt;li&gt;reduced uncertainty&lt;/li&gt;
+&lt;li&gt;interest income earned on deferred expenditure&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Requires
+&lt;ul&gt;&lt;li&gt;set up a mapping between a project and a call option&lt;/li&gt;
+&lt;li&gt;related the option to a DCF valuation and perform an option valuation&lt;/li&gt;
+&lt;li&gt;extract managerial insights from the option pricing framework&lt;/li&gt;
+&lt;li&gt;call option valuation model is the Black-Scholes Model&lt;/li&gt;
+&lt;li&gt;option analysis complements but does not replace DCF NPV&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="mappingitprojecttorealoption"&gt;Mapping IT Project to Real Option&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;S Stock price
+&lt;ul&gt;&lt;li&gt;PV of IT project's assets to be acquired&lt;/li&gt;
+&lt;li&gt;PV (assets to be acquired)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;X Exercise price
+&lt;ul&gt;&lt;li&gt;IT expenditure needed to acquire the assets&lt;/li&gt;
+&lt;li&gt;PV (expenditure)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Time to expiration
+&lt;ul&gt;&lt;li&gt;decision deferral period&lt;/li&gt;
+&lt;li&gt;t&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Risk free interest rate
+&lt;ul&gt;&lt;li&gt;time value of money&lt;/li&gt;
+&lt;li&gt;r&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Variance of return or stock
+&lt;ul&gt;&lt;li&gt;risk of IT project's assets&lt;/li&gt;
+&lt;li&gt;σ2&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="relatingdcftooptionvaluation"&gt;Relating DCF to Option Valuation&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;NPV = PV(asset) - PV(expenditure now) = S - X&lt;/li&gt;
+&lt;li&gt;Invest now if NPV &gt; 0 &lt;/li&gt;
+&lt;li&gt;NPVq = PV(asset) / PV(expenditure later)&lt;/li&gt;
+&lt;li&gt;Project is in the money if NPVq &gt;1&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="optionvaluation"&gt;Option Valuation&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Project risk is the variability of return on the project per unit of time measured by the variance of return σ2&lt;/li&gt;
+&lt;li&gt;multiplying the variance per unit of time by the time periods remaining gives cumulative variance σ2t&lt;/li&gt;
+&lt;li&gt;cumulative volatility = σ√t&lt;/li&gt;
+&lt;li&gt;knowing NPVq and σ√t we can lookup the Black-Scholes determinant, a percentage %, from a table&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;￼###Information Technology Project Real Options&lt;/p&gt;
+
+&lt;h4 id="optioni"&gt;Option I&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;NPV &gt; 0 &lt;/li&gt;
+&lt;li&gt;t = 0&lt;/li&gt;
+&lt;li&gt;invest Now&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="optionii"&gt;Option II&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;NPV &gt; 0 &lt;/li&gt;
+&lt;li&gt;NPVq &gt; 1&lt;/li&gt;
+&lt;li&gt;t ~= 0 &lt;/li&gt;
+&lt;li&gt;exercise option early or maybe now&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="optioniii"&gt;Option III&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;NPV &amp;lt; 0&lt;/li&gt;
+&lt;li&gt;NPVq &gt; 1 &lt;/li&gt;
+&lt;li&gt;t &gt; 0&lt;/li&gt;
+&lt;li&gt;probably invest later&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="optioniv"&gt;Option IV&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;NPV &amp;lt; 0 &lt;/li&gt;
+&lt;li&gt;NPVq &amp;lt; 1&lt;/li&gt;
+&lt;li&gt;t &gt; 0&lt;/li&gt;
+&lt;li&gt;maybe invest later&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="optionv"&gt;Option V&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;NPV &amp;lt; 0&lt;/li&gt;
+&lt;li&gt;NPVq &amp;lt; 1&lt;/li&gt;
+&lt;li&gt;t ~= 0&lt;/li&gt;
+&lt;li&gt;probably never invest&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="optionv"&gt;Option V&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;NPV &amp;lt; 0&lt;/li&gt;
+&lt;li&gt;t = 0&lt;/li&gt;
+&lt;li&gt;invest never&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="managerialinsightofrealoptions"&gt;Managerial Insight of Real Options&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;natural tug: options tend to move up in the real option as time passes&lt;/li&gt;
+&lt;li&gt;only tow forces can push a real option up before time runs out: good luck and active management&lt;/li&gt;
+&lt;li&gt;managers can increase value and reduce cost to move the option to the real option up&lt;/li&gt;
+&lt;li&gt;be careful of spillover effects in an option portfolio and nested options in an IT strategy (an option that influences other options in a series of decisions)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="potentialissuesofitrealoptions"&gt;Potential Issues of IT Real Options&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;uncertainties and risks in real options add a new element to the capital budgeting problem&lt;/li&gt;
+&lt;li&gt;σ is usually between 20% and 40%&lt;/li&gt;
+&lt;li&gt;many investment decisions are complex with interdependencies and synergies among projects and options&lt;/li&gt;
+&lt;li&gt;IT investments often do not result in easily measured cash flows&lt;/li&gt;
+&lt;li&gt;little account is taken of less tangible outcomes such as business processes, marketing, customer services, and a firm's competitiveness&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="itinvestmentmonitoring"&gt;IT Investment Monitoring&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;if you can’t measure it, you can’t manage it&lt;/li&gt;
+&lt;li&gt;management needs to make sure that the money spent on IT leads to organizational benefit&lt;/li&gt;
+&lt;li&gt;metrics for monitoring IT investments
+&lt;ul&gt;&lt;li&gt;financial: ROI, NPV&lt;/li&gt;
+&lt;li&gt;system: log of errors, downtime, response time&lt;/li&gt;
+&lt;li&gt;business: revenues generated from web sales&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;comprehensive monitoring approaches
+&lt;ul&gt;&lt;li&gt;balanced score card&lt;/li&gt;
+&lt;li&gt;dashboard&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="balancedscorecard"&gt;Balanced Scorecard&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;focus attention on the organization's value drivers &lt;/li&gt;
+&lt;li&gt;focus on financial performance&lt;/li&gt;
+&lt;li&gt;look at business from four perspectives
+&lt;ul&gt;&lt;li&gt;customer&lt;/li&gt;
+&lt;li&gt;internal&lt;/li&gt;
+&lt;li&gt;business&lt;/li&gt;
+&lt;li&gt;innovation and learning&lt;/li&gt;
+&lt;li&gt;financial&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;questions to ask
+&lt;ul&gt;&lt;li&gt;how do customers and users see us?&lt;/li&gt;
+&lt;li&gt;at what must we excel?&lt;/li&gt;
+&lt;li&gt;can we continue to improve and create value?&lt;/li&gt;
+&lt;li&gt;how do we look to shareholders?&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;apply balanced scorecard to IT means interpreting categories more broadly&lt;/li&gt;
+&lt;li&gt;IT scorecard is linked to corporate scorecard by insuring IT measures used support the corporate goals&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="balancedscorecardappliedtoinformationtechnology"&gt;Balanced Scorecard Applied to Information Technology&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Customer
+&lt;ul&gt;&lt;li&gt;Measures that reflect factors that really matter to customers&lt;/li&gt;
+&lt;li&gt;User defined operational metrics&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Internal Business
+&lt;ul&gt;&lt;li&gt;Measures of what the company must do internally to meet customer expectations.&lt;/li&gt;
+&lt;li&gt;IT process metrics, project completion rates, system operational performance metrics&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Innovating and Learning
+&lt;ul&gt;&lt;li&gt;Measures of the company’s ability to innovate, improve and learn&lt;/li&gt;
+&lt;li&gt;IT R&amp;amp;D, New technology introduction success rate, training metrics&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Financial&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;Measures to indicate contribution of activities to the bottom-line&lt;/li&gt;
+&lt;li&gt;IT project ROI, NPV, IRR, cost/benefit, TCO, ABC&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="informationtechnologydashboards"&gt;Information Technology Dashboards&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;IT dashboards summarize key metrics for managers in a way that provides quick identification of the status of the organization's IT activities&lt;/li&gt;
+&lt;li&gt;IT dashboards provide frequently updated information on areas of interest about IT operations&lt;/li&gt;
+&lt;li&gt;data tends to focus on project status or operational system status&lt;/li&gt;
+&lt;li&gt;problems can also be identified and handled more promptly&lt;/li&gt;
+&lt;li&gt;built on information contained in other apps, databases, and analytical systems&lt;/li&gt;
+&lt;li&gt;business intelligence&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h4 id="architectureofanitdashboard"&gt;Architecture of an IT Dashboard&lt;/h4&gt;
+
+&lt;ul&gt;&lt;li&gt;Raw Data&lt;/li&gt;
+&lt;li&gt;feeds transaction system&lt;/li&gt;
+&lt;li&gt;drive cost&lt;/li&gt;
+&lt;li&gt;customer order&lt;/li&gt;
+&lt;li&gt;customer payment&lt;/li&gt;
+&lt;li&gt;test data&lt;/li&gt;
+&lt;li&gt;build data&lt;/li&gt;
+&lt;li&gt;Fictional Applications&lt;/li&gt;
+&lt;li&gt;transaction based&lt;/li&gt;
+&lt;li&gt;standard reporting&lt;/li&gt;
+&lt;li&gt;highly focused&lt;/li&gt;
+&lt;li&gt;ERP&lt;/li&gt;
+&lt;li&gt;logistics&lt;/li&gt;
+&lt;li&gt;point of sale (POS)&lt;/li&gt;
+&lt;li&gt;supplier quality system&lt;/li&gt;
+&lt;li&gt;manufacturing execution system&lt;/li&gt;
+&lt;li&gt;marginal monitoring system&lt;/li&gt;
+&lt;li&gt;failure analysis system&lt;/li&gt;
+&lt;li&gt;Business Intelligence&lt;/li&gt;
+&lt;li&gt;cross application query&lt;/li&gt;
+&lt;li&gt;data mining&lt;/li&gt;
+&lt;li&gt;statistical analysis&lt;/li&gt;
+&lt;li&gt;BMIS&lt;/li&gt;
+&lt;li&gt;financial performance&lt;/li&gt;
+&lt;li&gt;mitec reporting&lt;/li&gt;
+&lt;li&gt;factory reporting&lt;/li&gt;
+&lt;li&gt;QIS&lt;/li&gt;
+&lt;li&gt;product performance&lt;/li&gt;
+&lt;li&gt;Dashboards&lt;/li&gt;
+&lt;li&gt;highly summarized&lt;/li&gt;
+&lt;li&gt;key metric driven&lt;/li&gt;
+&lt;li&gt;visualization&lt;/li&gt;
+&lt;li&gt;alerts&lt;/li&gt;
+&lt;li&gt;Corporate Dashboards&lt;/li&gt;
+&lt;li&gt;planning&lt;/li&gt;
+&lt;li&gt;forecasting&lt;/li&gt;
+&lt;li&gt;revenue positions&lt;/li&gt;
+&lt;li&gt;inventory positions&lt;/li&gt;
+&lt;li&gt;Factory Dashboard&lt;/li&gt;
+&lt;li&gt;component inventory&lt;/li&gt;
+&lt;li&gt;line utilization&lt;/li&gt;
+&lt;li&gt;yield&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="fundingitresources"&gt;Funding IT Resources&lt;/h2&gt;
+
+&lt;p&gt;Who pays?&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;users&lt;/li&gt;
+&lt;li&gt;IT department &lt;/li&gt;
+&lt;li&gt;corporate&lt;/li&gt;&lt;/ul&gt;
+
+&lt;p&gt;Funding Methods&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;chargeback&lt;/li&gt;
+&lt;li&gt;allocation&lt;/li&gt;
+&lt;li&gt;corporate budget&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="chargeback"&gt;Chargeback&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;IT costs are recovered by charging individuals, departments, or business units based on actual usage&lt;/li&gt;
+&lt;li&gt;rates of usage are calculated based on the actual cost to the IT group to run the system and billed out on a regular basis &lt;/li&gt;
+&lt;li&gt;charge is popular because it is viewed as the most equitable way to recover IT costs&lt;/li&gt;
+&lt;li&gt;creating and managing chargeback system is a costly endeavor due to the need to collect extensive system usage data&lt;/li&gt;
+&lt;li&gt;done for management reasons&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="allocation"&gt;Allocation&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;recovers costs based on some simplified metrics other than usage such as revenues, log-in accounts, or number of employees&lt;/li&gt;
+&lt;li&gt;its primary advantage is that it is simpler to implement and apply&lt;/li&gt;
+&lt;li&gt;free rider problem&lt;/li&gt;
+&lt;li&gt;deciding the basis for charging out the costs can be a problem&lt;/li&gt;
+&lt;li&gt;true up process is needed where total IT expenses are compared to total IT funds recovered from the business units&lt;/li&gt;
+&lt;li&gt;done for management reasons&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="corporatebudget"&gt;Corporate Budget&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;here the costs fall to the corporate bottom line rather than levying charges on specific users or business units&lt;/li&gt;
+&lt;li&gt;no requirement to calculate prices of the IT systems and hence no financial concerns raised monthly by business managers&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;IT has to compete with all other budgeted items for funds&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;chargeback, allocation, corporate budget treat IT as a cost center not a profit center&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;most bac=sic method of determining costs is to add up all of the hardware, software, network, and people involved in Information Systems.&lt;/li&gt;
+&lt;li&gt;real cost is not as easy to determine&lt;/li&gt;
+&lt;li&gt;most companies continue to use this over-simplistic view of determining cost and never really know the real cost&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h3 id="activitybasedcosting"&gt;Activity Based Costing&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;activity based costing (ABC) counts the actual activities that go into making a specific product or delivering a specific service&lt;/li&gt;
+&lt;li&gt;activities are processes, function, or tasks that occur over time and have recognized results&lt;/li&gt;
+&lt;li&gt;activities consume assigned resources to produce products and services&lt;/li&gt;
+&lt;li&gt;activates are useful in costing because they are the common denominator between business process improvement and information improvement&lt;/li&gt;
+&lt;li&gt;ABC charges all costs to profit centers not cost centers&lt;/li&gt;&lt;/ul&gt;
+
+&lt;h2 id="totalcostofownership"&gt;Total Cost of Ownership&lt;/h2&gt;
+
+&lt;ul&gt;&lt;li&gt;Total cost of ownership (TCO) is becoming the industry standard&lt;/li&gt;
+&lt;li&gt;TCO looks beyond initial capital investments to include support, administration, and training costs,&lt;/li&gt;
+&lt;li&gt;TCO estimates annual costs per user for each infrastructure choice, costs are then totaled&lt;/li&gt;
+&lt;li&gt;TCO estimates should be computed per component to provide the best investment numbers to compare with financial return number IT real options&lt;/li&gt;
+&lt;li&gt;TCO helps managers understand how infrastructure cost break down&lt;/li&gt;
+&lt;li&gt;it provides a more complete picture of where managers spend their IT dollars as TCO results can be evaluated over time against industry standards&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="chiefinformationofficercio"&gt;Chief Information Officer (CIO)&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Chief technology officer (CTO) Track emerging technologies; advise on technology adoption; design and manage IT architecture to ensure consistency and compliance&lt;/li&gt;
+&lt;li&gt;Chief knowledge officer (CKO) Create knowledge management infrastructure; build a knowledge culture; make corporate knowledge pay off&lt;/li&gt;
+&lt;li&gt;Chief telecommunications officer (CTO) Manage phones, networks, and other communications technology across entire enterprise&lt;/li&gt;
+&lt;li&gt;Chief network officer (CNO) Build and maintain internal and external networks&lt;/li&gt;
+&lt;li&gt;Chief resource officer (CRO) Manage outsourcing relationships&lt;/li&gt;
+&lt;li&gt;Chief information security officer (CISO) Ensure information management practices are consistent with security requirements&lt;/li&gt;
+&lt;li&gt;Chief privacy officer (CPO) Be responsible for processes and practices that ensure privacy concerns of customers, employees, and vendors are met&lt;/li&gt;
+&lt;li&gt;Chief mobility officer (CMO) Oversee and ensure the viable use of the mobile platforms and apps&lt;/li&gt;
+&lt;li&gt;Chief social media officer (CSMO) Maintain a social IT perspective that results in effectively implementing social media&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href="http://pompeiiconsulting.com/strategic-value-of-information-technology"&gt;Strategic Value of Information Technology&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title>Otis Elevator Case Study</title><description>Customer Relationship Management | IT Consulting | IT Management | Information Technology Consulting | Pompeii Consulting</description><link>http://localhost:2368/otis-information-technology-crm/</link><guid isPermaLink="false">708a9f0b-cac7-462d-91cb-bcbf4b58e806</guid><category>information technolog</category><category>supply chain management</category><category>customer relationship management</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Tue, 30 Aug 2016 00:05:09 GMT</pubDate><content:encoded>&lt;blockquote&gt;
   &lt;p&gt;Focuses on a major transformation of Otis Elevator's infrastructure. Led by the CEO, this transformation represents a remarkable long-term reengineering of all the processes of the firm to drive its operating costs down and service image up. The transformation is the continuation of a process that has been going on for more than 20 years.&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -1277,4 +1815,4 @@ table, th, td {
 &lt;li&gt;Evaluate the human capital required for the Thunderstone implementation, namely the three employees hired for the Oracle roll out.&lt;/li&gt;
 &lt;li&gt;Clarify whether if Texis is migrating from Vortex to a standard language. Based on result, may need to train in Vortex, start during during 60-90 day implementation.&lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title>Applied Project</title><description>Emerging Technology | IT Consulting | IT Management | Information Technology Consulting | Information Technology Management | Pompeii Consulting</description><link>http://localhost:2368/applied-project/</link><guid isPermaLink="false">8e58c10b-29dd-4943-9c9a-d1d54950d478</guid><category>information technology</category><category>applied project</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Mon, 11 Jul 2016 17:31:02 GMT</pubDate><content:encoded>&lt;p&gt;This section will be an applied project on emerging information technology issues. All of the concepts, theories, and frameworks learned in earlier sections will be used to develop an information technology backed transformation plan for a business. Effective presentation of this information will also be discussed and demonstrated.&lt;/p&gt;</content:encoded></item><item><title>Information Enabled Business Modeling</title><description>Big Data | Data Science | IT Consulting | IT Management | Information Technology Consulting | Information Technology Management | Pompeii Consulting</description><link>http://localhost:2368/information-enabled-business-modeling/</link><guid isPermaLink="false">b449c9cb-f109-40a2-9dba-5a7363c02ed6</guid><category>big data</category><category>analytical culture</category><category>data science</category><category>business strategy</category><category>business intelligence</category><category>data warehouse</category><category>databases</category><category>business modeling</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Mon, 11 Jul 2016 17:27:50 GMT</pubDate><content:encoded>&lt;p&gt;In this section we will look at how different organizations and industries are discovering the value of big data. Further, we will inspect the challenges and short comings of certain approaches and applications. The importance an organizational, analytical culture in conjunction with effective data science to create an informed business strategy is paramount.&lt;/p&gt;</content:encoded></item><item><title>IT Services and Project Management</title><description>IT Services | Project Management | IT Consulting | IT Management | Information Technology Consulting | Pompeii Consulting</description><link>http://localhost:2368/it-services-and-project-management/</link><guid isPermaLink="false">2e8b410f-4434-4772-a959-8b7d12cc4469</guid><category>information technology services</category><category>project management</category><category>commoditization of hardware</category><category>commoditization of software</category><category>business process</category><category>product development process</category><category>service delivery process</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Mon, 11 Jul 2016 17:18:59 GMT</pubDate><content:encoded>&lt;p&gt;Information technology services, the commoditization of hardware, the commoditization of software, and the business processes involved will be the main focuses of this section. Time will be spent on the information technology product development processes and on the information technology service delivery processes, with special consideration given to being on-time, on-budget, and meeting end user needs, all while using sound management principles.&lt;/p&gt;</content:encoded></item><item><title>Managing Enterprise Systems</title><description>Software Adoption | Emerging Technology | IT Consulting | Information Technology Consulting | Information Technology Management | Pompeii Consulting</description><link>http://localhost:2368/managing-enterprise-systems/</link><guid isPermaLink="false">0aabc773-04ca-4cc3-b3fe-c78024331d7c</guid><category>enterprise systems</category><category>software adoption</category><category>enterprise implementation</category><category>emerging technology</category><category>business enviroment</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Mon, 11 Jul 2016 17:10:29 GMT</pubDate><content:encoded>&lt;p&gt;The major categories of enterprise systems, factors dictating enterprise software adoption, and the fundamentals of enterprise wide implementation will be explored. A major focus will be on the potential impact of emerging technologies on enterprise systems and the business environment as a whole.&lt;/p&gt;</content:encoded></item><item><title>Emerging Technologies</title><description>Emerging Technology | IT Consulting | IT Management | Information Technology Consulting | Information Technology Management | Pompeii Consulting</description><link>http://localhost:2368/emerging-technologies/</link><guid isPermaLink="false">0081f906-961f-463c-9902-9f3d7a3443e8</guid><category>emerging technology</category><category>integration technology</category><category>mobile platform</category><category>mobile devices</category><category>semantic web</category><category>electronic collaboration</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Mon, 11 Jul 2016 17:03:58 GMT</pubDate><content:encoded>&lt;p&gt;In this section we will look at decision models and decision frameworks to assess, evaluate, and implement emerging technologies. The decision models and decision frameworks will be contextualized with respect to enterprise integration technologies, mobile platforms, mobile devices, semantic web, and electronic collaboration technologies.&lt;/p&gt;</content:encoded></item><item><title>Business Process and Workflow Analysis</title><description>Process Analysis | IT Consulting | IT Management | Information Technology Consulting | Information Technology Management | Pompeii Consulting</description><link>http://localhost:2368/business-process-and-workflow-analysis/</link><guid isPermaLink="false">8e161159-ece5-4d9d-941c-0c808a1179bb</guid><category>process analysis</category><category>business process</category><category>workflow analysis</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Mon, 11 Jul 2016 17:00:38 GMT</pubDate><content:encoded>&lt;p&gt;In this section we will look at information, documents, people, roles, and business rules and their importance in process analysis. We will learn how to understand the different business processes involved and how to perform workflow analysis on these processes. Also, attention will be given to rolling out change initiatives within an organization and the possible hurdles and issues that may be encountered.&lt;/p&gt;</content:encoded></item><item><title>Information Security and Controls</title><description>COBIT Framework | Data Security | IT Consulting | IT Management | Information Technology Consulting | Information Technology Management | Pompeii Consulting</description><link>http://localhost:2368/information-security-and-controls-2/</link><guid isPermaLink="false">4afe0e58-baca-432c-a91c-49181e325d22</guid><category>COBIT Framework</category><category>information security</category><category>data security</category><category>information controls</category><category>information technology governance</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Mon, 11 Jul 2016 16:52:24 GMT</pubDate><content:encoded>&lt;p&gt;Using the COBIT framework we will explore how a wide range of information security, data security, and information controls are designed and implemented. Further, we will look at how this leads to effective information technology governance. &lt;br&gt;
-This will help us develop an intuitive understanding of information security and information technology governance. We will then asses the effectiveness of different forms of information security and varying iterations of organizational information security program designs.&lt;/p&gt;</content:encoded></item><item><title>Business Intelligence</title><description>Data Warehouse | IT Consulting | IT Management | Information Technology Consulting | Information Technology Management | Pompeii Consulting</description><link>http://localhost:2368/business-intelligence/</link><guid isPermaLink="false">8ffb778a-1094-40a9-aa26-3003cc8d53eb</guid><category>data warehouse</category><category>data warehousing</category><category>data mining</category><category>business intelligence</category><category>BI</category><category>DW</category><category>business analytics</category><category>business performance management</category><category>business</category><category>databases</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Mon, 11 Jul 2016 16:44:02 GMT</pubDate><content:encoded>&lt;p&gt;In this section we will discuss how Business Intelligence (BI) is used by organizations to gain a competitive advantage in the market place. This lays the groundwork for evidence based management decision making, using technologies such as data warehousing, data mining, and contemporary managerial theory: real time business intelligence, business analytics, and business performance management.&lt;/p&gt;</content:encoded></item></channel></rss>
+This will help us develop an intuitive understanding of information security and information technology governance. We will then asses the effectiveness of different forms of information security and varying iterations of organizational information security program designs.&lt;/p&gt;</content:encoded></item></channel></rss>
