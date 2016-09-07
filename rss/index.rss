@@ -1,4 +1,314 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Pompeii Consulting</title><description>IT Consulting | IT Management</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Wed, 07 Sep 2016 00:44:35 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Air Canada Case Study</title><description>Operational Excellence | Customer Proximity | IT Consulting | IT Management | Information Technology Consulting | Pompeii Consulting</description><link>http://localhost:2368/air-canada-information-technology-management/</link><guid isPermaLink="false">eeb72fca-3d17-4278-9eb4-e5e0539b6d45</guid><category>information technology</category><category>information management</category><category>CIO</category><category>case study</category><category>competitive advantage</category><category>outsourcing</category><category>airlines</category><category>IT strategy</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Wed, 07 Sep 2016 00:42:55 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Pompeii Consulting</title><description>IT Consulting | IT Management</description><link>http://localhost:2368/</link><generator>Ghost 0.8</generator><lastBuildDate>Wed, 07 Sep 2016 19:25:51 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Importance of Information</title><description>Game Theory | Prisoner's Dilema | IT Consulting | IT Management | Information Technology Consulting | Information Technology Management | Pompeii Consulting</description><link>http://localhost:2368/game-theory-imperfect-information/</link><guid isPermaLink="false">6a8e6a40-57c4-47e4-a0d8-b1f6e005dac7</guid><category>game theory</category><category>invisible hand</category><category>imperfect information</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Wed, 07 Sep 2016 19:23:42 GMT</pubDate><content:encoded>&lt;h2 id="invisiblehand"&gt;Invisible Hand&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;By pursing his own interest, he frequently promotes that of the society more effectively than when he really intends to promote it... led by an invisible hand to promote an end which was no part of his intention&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Adam Smith&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;conditions for perfectly competitive markets&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;many buyers and sellers who are price takers&lt;/li&gt;
+&lt;li&gt;products are homogeneous&lt;/li&gt;
+&lt;li&gt;there are no barriers to entry or exit&lt;/li&gt;
+&lt;li&gt;perfect information about actions is available (not just complete information abut payoff and preference)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;perfectly competitive markets are only theoretically possible&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="effectsofimperfectinformation"&gt;Effects of Imperfect Information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;game theory&lt;/li&gt;
+&lt;li&gt;prisoner's dilemma&lt;/li&gt;
+&lt;li&gt;choices
+&lt;ul&gt;&lt;li&gt;testify against the other&lt;/li&gt;
+&lt;li&gt;keep quiet&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;neither knows what the other chooses&lt;/li&gt;
+&lt;li&gt;low prison time if neither confess&lt;/li&gt;
+&lt;li&gt;no prison time if you're the one to confess and the other does not&lt;/li&gt;
+&lt;li&gt;medium prison time if you both confess&lt;/li&gt;
+&lt;li&gt;Nash equilibrium where each person confesses is the worst situation&lt;/li&gt;
+&lt;li&gt;Pareto optimal where neither confesses is the best situation&lt;/li&gt;
+&lt;li&gt;John Nash won a Nobel prize in 1994&lt;/li&gt;
+&lt;li&gt;proved the existence of a t least one equilibrium point for any non-cooperative non zero-sum game with any numbers of players&lt;/li&gt;
+&lt;li&gt;market and invisible hand fails because only imperfect information and not complete information is available when players are choosing an action&lt;/li&gt;
+&lt;li&gt;information technology is especially useful in addressing this problem&lt;/li&gt;
+&lt;li&gt;information technology makes it easier to share information about actions among agents&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href="http://pompeiiconsulting.com/strategic-value-of-information-technology"&gt;Strategic Value of Information Technology&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title>Information Technology Sourcing</title><description>Outsource| Insource | Offshore | IT Consulting | IT Management | Information Technology Consulting | Pompeii Consulting</description><link>http://localhost:2368/how-to-decide-when-to-outsource/</link><guid isPermaLink="false">64e15fac-91a1-43b0-b1a6-0d7847cf30ff</guid><category>outsourcing</category><category>insourcing</category><category>offshoring</category><category>onshoring</category><category>cloud</category><category>cloud computing</category><category>infrastructure as a service</category><category>IaaS</category><category>platform as a service</category><category>Paas</category><category>Software as a Service</category><category>Saas</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Wed, 07 Sep 2016 19:23:22 GMT</pubDate><content:encoded>&lt;h1 id="informationtechnologysourcing"&gt;Information Technology Sourcing&lt;/h1&gt;
+
+&lt;h2 id="sourcingdecisioncycleframework"&gt;Sourcing Decision Cycle Framework&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;sourcing involves many decisions&lt;/li&gt;
+&lt;li&gt;first step is the make or buy decision&lt;/li&gt;
+&lt;li&gt;if choose to buy must decide where&lt;/li&gt;
+&lt;li&gt;if the company decides to go offshore, must decide if offshore company is near or far&lt;/li&gt;
+&lt;li&gt;periodic evaluation must take place&lt;/li&gt;
+&lt;li&gt;continual evaluation is needed to determine if the arrangement is satisfactory or not, for both outsourcing and insourcing&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="itsourcingdecisiontree"&gt;IT Sourcing Decision Tree&lt;/h3&gt;
+
+&lt;h4 id="makeorbuy"&gt;Make or Buy?&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;insourcing&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;outsourcing&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;offshoring&lt;/li&gt;
+&lt;li&gt;onshoring&lt;/li&gt;
+&lt;li&gt;cloud&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;offshoring&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;captive center&lt;/li&gt;
+&lt;li&gt;farshoring&lt;/li&gt;
+&lt;li&gt;nearshoring&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;evaluating status quo or change?&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;backsourcing&lt;/li&gt;
+&lt;li&gt;stay&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="makeorbuy"&gt;Make or Buy?&lt;/h3&gt;
+
+&lt;p&gt;Does it involve a core competency? &lt;br&gt;
+If outsourced: Loss of control over strategic initiatives; loss of strategic focus&lt;/p&gt;
+
+&lt;p&gt;Does it involve confidential or sensitive IS services or software development? &lt;br&gt;
+If outsourced: Competitive secrets may be leaked&lt;/p&gt;
+
+&lt;p&gt;Is there enough time available to complete software development projects in-house? &lt;br&gt;
+If insourced: Project not completed on time&lt;/p&gt;
+
+&lt;p&gt;Do the in-house IS professionals have adequate training, experience, or skills to provide the service or develop the software? &lt;br&gt;
+If outsourced: Technological innovations limited to what provider offers; overreliance on provider’s skills&lt;/p&gt;
+
+&lt;p&gt;Are there reliable outsourcing providers who are likely to stay in business for the duration of the contract? &lt;br&gt;
+If outsourced: Project not completed, or, if completed, project is over budget and late when another provider takes it over&lt;/p&gt;
+
+&lt;p&gt;Is there an outsourcing provider that has a culture and practices that are compatible with the client? &lt;br&gt;
+If outsourced: Conflict between client and provider personnel &lt;/p&gt;
+
+&lt;p&gt;Are there economies of scale that make it cheaper to provide the service or develop the software in-house? &lt;br&gt;
+If outsourced: Costs of project or operations becomes excessive because of the way, the contract is written&lt;/p&gt;
+
+&lt;p&gt;Does it offer a better ability to handle peaks? &lt;br&gt;
+If insourced: Loss of business &lt;/p&gt;
+
+&lt;p&gt;Does it involve consolidating data centers? &lt;br&gt;
+If insourced: Inefficient operations&lt;/p&gt;
+
+&lt;h3 id="insourcing"&gt;Insourcing&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;a firm provides information system services or develops information systems in its own in house information systems organization&lt;/li&gt;
+&lt;li&gt;this is the make decision&lt;/li&gt;
+&lt;li&gt;drivers that favor this decision:
+&lt;ul&gt;&lt;li&gt;keep core competencies in house&lt;/li&gt;
+&lt;li&gt;information system services or products that require considerable security or confidentiality&lt;/li&gt;
+&lt;li&gt;time available in house to complete information system projects&lt;/li&gt;
+&lt;li&gt;in house information technology personnel&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;challenges to insourcing
+&lt;ul&gt;&lt;li&gt;getting needed information technology resources from management&lt;/li&gt;
+&lt;li&gt;competent information technology staff available&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="outsourcing"&gt;Outsourcing&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;purchase of a good or service that was previously provided internally or that could be provided internally&lt;/li&gt;
+&lt;li&gt;driver that favor this decision:
+&lt;ul&gt;&lt;li&gt;cost reduction achieved through economies of scale (outsourcer may be able t negotiate lower prices on hardware and software)&lt;/li&gt;
+&lt;li&gt;help a company transition to new technologies through access to a larger information technology talent pool&lt;/li&gt;
+&lt;li&gt;brining in outside expertise can help management focus more on core activities rather than on information technology issues&lt;/li&gt;
+&lt;li&gt;outsourcing firms know how to hire, manage, and retain information technology staff&lt;/li&gt;
+&lt;li&gt;greater capacity on demand&lt;/li&gt;
+&lt;li&gt;overcome inertia to consolidate data centers&lt;/li&gt;
+&lt;li&gt;Offers costs savings&lt;/li&gt;
+&lt;li&gt;Eases transition to new technologies&lt;/li&gt;
+&lt;li&gt;Offers opportunity for better strategic focus&lt;/li&gt;
+&lt;li&gt;Provides better management of IS staff&lt;/li&gt;
+&lt;li&gt;Offers better ability to handle peaks&lt;/li&gt;
+&lt;li&gt;Easier to consolidate data centers&lt;/li&gt;
+&lt;li&gt;Provides a cash-infusion&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;challenges to outsourcing
+&lt;ul&gt;&lt;li&gt;a degree of control is surrendered&lt;/li&gt;
+&lt;li&gt;lack of adequate anticipation of new techological capabilities when negotiating outsourcing contracts&lt;/li&gt;
+&lt;li&gt;company gives up any real potential to develop them for competitive advantage&lt;/li&gt;
+&lt;li&gt;contract terms may leave clients highly dependent on their providers&lt;/li&gt;
+&lt;li&gt;competitive secrets will be harder to keep&lt;/li&gt;
+&lt;li&gt;savings may never be realized&lt;/li&gt;
+&lt;li&gt;dealing with multiple outsourcing vendors&lt;/li&gt;
+&lt;li&gt;Maintains an adequate level of control&lt;/li&gt;
+&lt;li&gt;Maintains ability to respond to technological innovation&lt;/li&gt;
+&lt;li&gt;Avoids loss of strategic advantage&lt;/li&gt;
+&lt;li&gt;Avoids overreliance on outsourcing provider&lt;/li&gt;
+&lt;li&gt;Mitigates outsourcing risks&lt;/li&gt;
+&lt;li&gt;Ensures cost savings while protecting quality&lt;/li&gt;
+&lt;li&gt;Works effectively with suppliers&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="avoidingoutsourcingrisks"&gt;Avoiding Outsourcing Risks&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;do not negotiate solely on price&lt;/li&gt;
+&lt;li&gt;craft full life cycle service contracts that occur in stages&lt;/li&gt;
+&lt;li&gt;establish short term contracts&lt;/li&gt;
+&lt;li&gt;use multiple best of breed suppliers&lt;/li&gt;
+&lt;li&gt;hone skills in contract management&lt;/li&gt;
+&lt;li&gt;carefully evaluate your company's own capabilities&lt;/li&gt;
+&lt;li&gt;choose an outsourcing provider whose capabilities complement yours&lt;/li&gt;
+&lt;li&gt;base a choice on cultural fit as well as technical expertise&lt;/li&gt;
+&lt;li&gt;determine whether a particular outsourcing relationship produces a net benefit for your company&lt;/li&gt;
+&lt;li&gt;plan transition to outsourcing&lt;/li&gt;
+&lt;li&gt;use SOAs to increase agility&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="fullversusselectiveoutsourcing"&gt;Full versus Selective Outsourcing&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;full outsourcing implies that an enterprise outsources all of its information system function from desktop services to software development&lt;/li&gt;
+&lt;li&gt;selective outsourcing or strategic outsourcing means an enterprise chooses which information technology capabilities to retain in house and which to give to an outsider&lt;/li&gt;
+&lt;li&gt;in a best of breed approach suppliers are chosen for their expertise in a specific technology area such as:
+&lt;ul&gt;&lt;li&gt;web site hosting&lt;/li&gt;
+&lt;li&gt;web 2.0&lt;/li&gt;
+&lt;li&gt;applications&lt;/li&gt;
+&lt;li&gt;business process application development&lt;/li&gt;
+&lt;li&gt;help desk support&lt;/li&gt;
+&lt;li&gt;networking and communications&lt;/li&gt;
+&lt;li&gt;social information technology services&lt;/li&gt;
+&lt;li&gt;data center operations&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="onshoring"&gt;Onshoring&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;onshoring or inshoring is the performing outsourcing work domestically&lt;/li&gt;
+&lt;li&gt;onshoring may be considered the opposite of offshoring&lt;/li&gt;
+&lt;li&gt;rural sourcing, hiring outside providers with operations in rural parts of America, is a growing trend&lt;/li&gt;
+&lt;li&gt;lower salaries&lt;/li&gt;
+&lt;li&gt;lower living costs&lt;/li&gt;
+&lt;li&gt;closer time zones&lt;/li&gt;
+&lt;li&gt;similar culture&lt;/li&gt;
+&lt;li&gt;fewer hassles than dealing with foreign outsourcing providers&lt;/li&gt;
+&lt;li&gt;too small to handle large scale projects&lt;/li&gt;
+&lt;li&gt;may not have the most technologically advanced employees&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="offshoring"&gt;Offshoring&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;the most general term for outsourcing abroad&lt;/li&gt;
+&lt;li&gt;sometimes short for offshore outsourcing&lt;/li&gt;
+&lt;li&gt;the information technology organization uses contractor services or even builds its own data center in a distant land&lt;/li&gt;
+&lt;li&gt;substantial potential cost savings through reduced labor costs&lt;/li&gt;
+&lt;li&gt;some countries offer a very well educated labor force&lt;/li&gt;
+&lt;li&gt;implementation of quantity standards
+&lt;ul&gt;&lt;li&gt;six sigma&lt;/li&gt;
+&lt;li&gt;ISO 9001&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;offshoring can either be in a distant land
+&lt;ul&gt;&lt;li&gt;farshoring&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;offshoring can be in relatively close proximity
+&lt;ul&gt;&lt;li&gt;nearshoring&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Farshoring is a form of offshoring that involves sourcing service work to a foreign, lower wage country that is far away in distance or time zone or both like India or China&lt;/li&gt;
+&lt;li&gt;Nearshoring is when work is sourced to a foreign, lower wage country that is relatively close in distance or time zone like Costa Rica&lt;/li&gt;
+&lt;li&gt;captive center is an overseas subsidiary that is set up to serve the parent company and operates like an outsourcing provider but is owned by the firm&lt;/li&gt;
+&lt;li&gt;captive center can be farshore or nearshore&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id="offshoringdestinationselection"&gt;Offshoring Destination Selection&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;what makes countries attractive for offshoring?&lt;/li&gt;
+&lt;li&gt;high English language proficiency&lt;/li&gt;
+&lt;li&gt;countries that are politically stable&lt;/li&gt;
+&lt;li&gt;countries with lower crime rates&lt;/li&gt;
+&lt;li&gt;countries with friendly relationships&lt;/li&gt;
+&lt;li&gt;security and/or trade restrictions&lt;/li&gt;
+&lt;li&gt;level of technical infrastructure available&lt;/li&gt;
+&lt;li&gt;India makes an entire industry based of offshoring&lt;/li&gt;
+&lt;li&gt;SEI's capability maturity model (CMM)
+&lt;ul&gt;&lt;li&gt;levels 1-5&lt;/li&gt;
+&lt;li&gt;India has CMM level 5 software development processes&lt;/li&gt;
+&lt;li&gt;extremely reliable and desirable as vendors&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;level of development of a country will determine if the location is appropriate&lt;/li&gt;
+&lt;li&gt;three tiers of software exporting nations&lt;/li&gt;
+&lt;li&gt;Tier 1
+&lt;ul&gt;&lt;li&gt;mature software exporting nations&lt;/li&gt;
+&lt;li&gt;highly industrialized nations&lt;/li&gt;
+&lt;li&gt;US&lt;/li&gt;
+&lt;li&gt;UK&lt;/li&gt;
+&lt;li&gt;Japan&lt;/li&gt;
+&lt;li&gt;India&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Tier 2
+&lt;ul&gt;&lt;li&gt;emerging software exporting nations&lt;/li&gt;
+&lt;li&gt;up and comers&lt;/li&gt;
+&lt;li&gt;small populations&lt;/li&gt;
+&lt;li&gt;political instability&lt;/li&gt;
+&lt;li&gt;Brazil&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Tier 3
+&lt;ul&gt;&lt;li&gt;infant stage software exporting nations&lt;/li&gt;
+&lt;li&gt;not significantly impacting on the software industry&lt;/li&gt;
+&lt;li&gt;Cuba&lt;/li&gt;
+&lt;li&gt;Jordan&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;cultural differences have to be carefully addressed&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="cloudcomputing"&gt;Cloud Computing&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;a third party provided information technology services over the internet&lt;/li&gt;
+&lt;li&gt;provides an entire data center's worth of servers, networking services, system management, security, storage, and other infrastructure&lt;/li&gt;
+&lt;li&gt;clients buy the exact amount of storage, computing power, security, or other information technology functions they need when they need it and pay only for what they use
+&lt;ul&gt;&lt;li&gt;possible cost savings&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;24/7 access from multiple mobile devices&lt;/li&gt;
+&lt;li&gt;high availability for large backup data storage&lt;/li&gt;
+&lt;li&gt;ease of use&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="infrastructureasaservice"&gt;Infrastructure as a Service&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;IaaS&lt;/li&gt;
+&lt;li&gt;provides infrastructure through grids or clusters or virtualized servers, networks, storage, and systems software&lt;/li&gt;
+&lt;li&gt;designed to augment or replace the functions of an entire data center&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="platformasaservice"&gt;Platform as a Service&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;PaaS&lt;/li&gt;
+&lt;li&gt;provides services using virtualized servers on which clients can run existing applications or develop new ones without having to worry about maintaining the operating systems, server hardware, load balancing, or computing capacity&lt;/li&gt;
+&lt;li&gt;provider manages the hardware and underlying operating system&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="softwareasaservice"&gt;Software as a Service&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;SaaS&lt;/li&gt;
+&lt;li&gt;Application as a Service
+&lt;ul&gt;&lt;li&gt;ASP
+software application functionality through a web browser  &lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;the platform and infrastructure are fully managed by the cloud provider&lt;/li&gt;
+&lt;li&gt;if the operating system or underlying service isn’t configured correctly the data at the higher application layer may be at risk&lt;/li&gt;
+&lt;li&gt;the most widely know and used form of cloud computing&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="reevaluation"&gt;Reevaluation&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;status quo or change?&lt;/li&gt;
+&lt;li&gt;backsourcing means a company takes back in house assets activates and skills that were previously outsourced to one or more outside information system providers&lt;/li&gt;
+&lt;li&gt;companies backsource after terminating, renegotiating, or letting their contracts expire&lt;/li&gt;
+&lt;li&gt;the reasons given for backsourcing often mirror the reasons for outsourcing&lt;/li&gt;
+&lt;li&gt;outsourcing decisions can be difficult and expensive to revers requiring the company to acquire the necessary information technology infrastructure and staff&lt;/li&gt;
+&lt;li&gt;backsourcing is followed by another cycle of decisions as the company responds to its dynamic environment&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href="http://pompeiiconsulting.com/strategic-value-of-information-technology"&gt;Strategic Value of Information Technology&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title>Air Canada Case Study</title><description>Operational Excellence | Customer Proximity | IT Consulting | IT Management | Information Technology Consulting | Pompeii Consulting</description><link>http://localhost:2368/air-canada-information-technology-management/</link><guid isPermaLink="false">eeb72fca-3d17-4278-9eb4-e5e0539b6d45</guid><category>information technology</category><category>information management</category><category>CIO</category><category>case study</category><category>competitive advantage</category><category>outsourcing</category><category>airlines</category><category>IT strategy</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Wed, 07 Sep 2016 00:42:55 GMT</pubDate><content:encoded>&lt;blockquote&gt;
   &lt;p&gt;By covering information technology (IT) management at Air Canada over two decades, this case illustrates the process of alignment between IT and business over time. During the 1990s, the focus was on efficiency and the IT department supported business through both the centralization of the IT function and the outsourcing of most of the IT activities, with the explicit objective of reducing costs. Twenty years later, at the time the case takes place, Air Canada had two key strategic objectives: operational excellence and customer proximity. In order to help meet these two objectives, IT now supported business through a hybrid structure and an innovation-based, "best-of-breed" sourcing strategy. Also, over the years, the IT department at Air Canada had developed processes aimed at ensuring efficient delivery of services by suppliers, as well as in-house processes to scan, identify and implement innovative IT solutions both for operational excellence and customer proximity.&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -1851,4 +2161,4 @@ table, th, td {
 &lt;li&gt;Reallocate resources to Thunderstone.&lt;/li&gt;
 &lt;li&gt;Evaluate the human capital required for the Thunderstone implementation, namely the three employees hired for the Oracle roll out.&lt;/li&gt;
 &lt;li&gt;Clarify whether if Texis is migrating from Vortex to a standard language. Based on result, may need to train in Vortex, start during during 60-90 day implementation.&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title>Applied Project</title><description>Emerging Technology | IT Consulting | IT Management | Information Technology Consulting | Information Technology Management | Pompeii Consulting</description><link>http://localhost:2368/applied-project/</link><guid isPermaLink="false">8e58c10b-29dd-4943-9c9a-d1d54950d478</guid><category>information technology</category><category>applied project</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Mon, 11 Jul 2016 17:31:02 GMT</pubDate><content:encoded>&lt;p&gt;This section will be an applied project on emerging information technology issues. All of the concepts, theories, and frameworks learned in earlier sections will be used to develop an information technology backed transformation plan for a business. Effective presentation of this information will also be discussed and demonstrated.&lt;/p&gt;</content:encoded></item><item><title>Information Enabled Business Modeling</title><description>Big Data | Data Science | IT Consulting | IT Management | Information Technology Consulting | Information Technology Management | Pompeii Consulting</description><link>http://localhost:2368/information-enabled-business-modeling/</link><guid isPermaLink="false">b449c9cb-f109-40a2-9dba-5a7363c02ed6</guid><category>big data</category><category>analytical culture</category><category>data science</category><category>business strategy</category><category>business intelligence</category><category>data warehouse</category><category>databases</category><category>business modeling</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Mon, 11 Jul 2016 17:27:50 GMT</pubDate><content:encoded>&lt;p&gt;In this section we will look at how different organizations and industries are discovering the value of big data. Further, we will inspect the challenges and short comings of certain approaches and applications. The importance an organizational, analytical culture in conjunction with effective data science to create an informed business strategy is paramount.&lt;/p&gt;</content:encoded></item><item><title>IT Services and Project Management</title><description>IT Services | Project Management | IT Consulting | IT Management | Information Technology Consulting | Pompeii Consulting</description><link>http://localhost:2368/it-services-and-project-management/</link><guid isPermaLink="false">2e8b410f-4434-4772-a959-8b7d12cc4469</guid><category>information technology services</category><category>project management</category><category>commoditization of hardware</category><category>commoditization of software</category><category>business process</category><category>product development process</category><category>service delivery process</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Mon, 11 Jul 2016 17:18:59 GMT</pubDate><content:encoded>&lt;p&gt;Information technology services, the commoditization of hardware, the commoditization of software, and the business processes involved will be the main focuses of this section. Time will be spent on the information technology product development processes and on the information technology service delivery processes, with special consideration given to being on-time, on-budget, and meeting end user needs, all while using sound management principles.&lt;/p&gt;</content:encoded></item><item><title>Managing Enterprise Systems</title><description>Software Adoption | Emerging Technology | IT Consulting | Information Technology Consulting | Information Technology Management | Pompeii Consulting</description><link>http://localhost:2368/managing-enterprise-systems/</link><guid isPermaLink="false">0aabc773-04ca-4cc3-b3fe-c78024331d7c</guid><category>enterprise systems</category><category>software adoption</category><category>enterprise implementation</category><category>emerging technology</category><category>business enviroment</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Mon, 11 Jul 2016 17:10:29 GMT</pubDate><content:encoded>&lt;p&gt;The major categories of enterprise systems, factors dictating enterprise software adoption, and the fundamentals of enterprise wide implementation will be explored. A major focus will be on the potential impact of emerging technologies on enterprise systems and the business environment as a whole.&lt;/p&gt;</content:encoded></item><item><title>Emerging Technologies</title><description>Emerging Technology | IT Consulting | IT Management | Information Technology Consulting | Information Technology Management | Pompeii Consulting</description><link>http://localhost:2368/emerging-technologies/</link><guid isPermaLink="false">0081f906-961f-463c-9902-9f3d7a3443e8</guid><category>emerging technology</category><category>integration technology</category><category>mobile platform</category><category>mobile devices</category><category>semantic web</category><category>electronic collaboration</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Mon, 11 Jul 2016 17:03:58 GMT</pubDate><content:encoded>&lt;p&gt;In this section we will look at decision models and decision frameworks to assess, evaluate, and implement emerging technologies. The decision models and decision frameworks will be contextualized with respect to enterprise integration technologies, mobile platforms, mobile devices, semantic web, and electronic collaboration technologies.&lt;/p&gt;</content:encoded></item><item><title>Business Process and Workflow Analysis</title><description>Process Analysis | IT Consulting | IT Management | Information Technology Consulting | Information Technology Management | Pompeii Consulting</description><link>http://localhost:2368/business-process-and-workflow-analysis/</link><guid isPermaLink="false">8e161159-ece5-4d9d-941c-0c808a1179bb</guid><category>process analysis</category><category>business process</category><category>workflow analysis</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Mon, 11 Jul 2016 17:00:38 GMT</pubDate><content:encoded>&lt;p&gt;In this section we will look at information, documents, people, roles, and business rules and their importance in process analysis. We will learn how to understand the different business processes involved and how to perform workflow analysis on these processes. Also, attention will be given to rolling out change initiatives within an organization and the possible hurdles and issues that may be encountered.&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;/ul&gt;</content:encoded></item><item><title>Applied Project</title><description>Emerging Technology | IT Consulting | IT Management | Information Technology Consulting | Information Technology Management | Pompeii Consulting</description><link>http://localhost:2368/applied-project/</link><guid isPermaLink="false">8e58c10b-29dd-4943-9c9a-d1d54950d478</guid><category>information technology</category><category>applied project</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Mon, 11 Jul 2016 17:31:02 GMT</pubDate><content:encoded>&lt;p&gt;This section will be an applied project on emerging information technology issues. All of the concepts, theories, and frameworks learned in earlier sections will be used to develop an information technology backed transformation plan for a business. Effective presentation of this information will also be discussed and demonstrated.&lt;/p&gt;</content:encoded></item><item><title>Information Enabled Business Modeling</title><description>Big Data | Data Science | IT Consulting | IT Management | Information Technology Consulting | Information Technology Management | Pompeii Consulting</description><link>http://localhost:2368/information-enabled-business-modeling/</link><guid isPermaLink="false">b449c9cb-f109-40a2-9dba-5a7363c02ed6</guid><category>big data</category><category>analytical culture</category><category>data science</category><category>business strategy</category><category>business intelligence</category><category>data warehouse</category><category>databases</category><category>business modeling</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Mon, 11 Jul 2016 17:27:50 GMT</pubDate><content:encoded>&lt;p&gt;In this section we will look at how different organizations and industries are discovering the value of big data. Further, we will inspect the challenges and short comings of certain approaches and applications. The importance an organizational, analytical culture in conjunction with effective data science to create an informed business strategy is paramount.&lt;/p&gt;</content:encoded></item><item><title>IT Services and Project Management</title><description>IT Services | Project Management | IT Consulting | IT Management | Information Technology Consulting | Pompeii Consulting</description><link>http://localhost:2368/it-services-and-project-management/</link><guid isPermaLink="false">2e8b410f-4434-4772-a959-8b7d12cc4469</guid><category>information technology services</category><category>project management</category><category>commoditization of hardware</category><category>commoditization of software</category><category>business process</category><category>product development process</category><category>service delivery process</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Mon, 11 Jul 2016 17:18:59 GMT</pubDate><content:encoded>&lt;p&gt;Information technology services, the commoditization of hardware, the commoditization of software, and the business processes involved will be the main focuses of this section. Time will be spent on the information technology product development processes and on the information technology service delivery processes, with special consideration given to being on-time, on-budget, and meeting end user needs, all while using sound management principles.&lt;/p&gt;</content:encoded></item><item><title>Managing Enterprise Systems</title><description>Software Adoption | Emerging Technology | IT Consulting | Information Technology Consulting | Information Technology Management | Pompeii Consulting</description><link>http://localhost:2368/managing-enterprise-systems/</link><guid isPermaLink="false">0aabc773-04ca-4cc3-b3fe-c78024331d7c</guid><category>enterprise systems</category><category>software adoption</category><category>enterprise implementation</category><category>emerging technology</category><category>business enviroment</category><dc:creator>Pompeii Consulting</dc:creator><pubDate>Mon, 11 Jul 2016 17:10:29 GMT</pubDate><content:encoded>&lt;p&gt;The major categories of enterprise systems, factors dictating enterprise software adoption, and the fundamentals of enterprise wide implementation will be explored. A major focus will be on the potential impact of emerging technologies on enterprise systems and the business environment as a whole.&lt;/p&gt;</content:encoded></item></channel></rss>
